@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-12631077",
+  "cap_id": 12631077,
+  "name": "In re Alfred Lee MAULDIN v. B.O.P. and Warden W.F. Dalius, Jr. et al.",
+  "name_abbreviation": "Mauldin v. BOP",
+  "reporter": "S.E.2d",
+  "reporter_slug": "se2d",
+  "volume": 590,
+  "first_page": 269,
+  "last_page": 269,
+  "official_citation": "590 S.E.2d 269",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "590 S.E.2d 269"
+    }
+  ],
+  "court": "Supreme Court of North Carolina",
+  "court_slug": null,
+  "jurisdiction": "N.C.",
+  "decision_date": "2003-12-04",
+  "docket_number": "No. 578P03.",
+  "text": "Upon consideration of the petition filed by Plaintiff in this matter for a writ of certiorari to review the order of the North Carolina Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n\"Denied by order of the Court in conference, this the 4th day of December 2003.\"",
+  "text_len": 330,
+  "source_url": "https://static.case.law/se2d/590/cases/0269-01.json",
+  "retrieved": "2026-09-02"
+}

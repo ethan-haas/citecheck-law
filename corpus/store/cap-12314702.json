@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-12314702",
+  "cap_id": 12314702,
+  "name": "ATTORNEY GRIEVANCE COMMISSION OF MARYLAND v. Lance BUTLER III",
+  "name_abbreviation": "Attorney Grievance Commission v. Butler",
+  "reporter": "Md.",
+  "reporter_slug": "md",
+  "volume": 456,
+  "first_page": 43,
+  "last_page": 43,
+  "official_citation": "456 Md. 43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "456 Md. 43"
+    },
+    {
+      "type": "parallel",
+      "cite": "169 A.3d 457"
+    }
+  ],
+  "court": "Court of Appeals of Maryland",
+  "court_slug": null,
+  "jurisdiction": "Md.",
+  "decision_date": "2017-09-07",
+  "docket_number": "Misc. Docket AG No. 14",
+  "text": "PER CURIAM ORDER\nFor reasons to be stated in an opinion later to be filed, it is this 7th day of September 2017,\nORDERED, by the Court of Appeals of Maryland, that the Respondent, Lance Butler III be, and he is hereby, disbarred, effective immediately, from the further practice of law in the State of Maryland; and it is further\nORDERED that the Clerk of this Court shall strike the name of Lance Butler III from the register of attorneys, and pursuant to Maryland Rule 19-761, shall certify that fact to the Trustees of the Client Protection Fund and the clerks of all judicial tribunals in the State; and it is further\nORDERED that Respondent shall pay all costs as taxed by the Clerk of this Court, including the costs of all transcripts, pursuant to Maryland Rule 19-709, for which sum judgment is entered in favor of the Attorney Grievance Commission of Maryland against Lance Butler III.",
+  "text_len": 894,
+  "source_url": "https://static.case.law/md/456/cases/0043-01.json",
+  "retrieved": "2026-09-02"
+}

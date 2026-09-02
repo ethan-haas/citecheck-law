@@ -1,0 +1,15 @@
+{
+  "note": "Gold labels for examples/sample_brief.md, indexed by extraction order (0-based). Used to demonstrate the refusal-pair report (acceptance gate 5).",
+  "citations": [
+    {"index": 0, "expected_verdict": "verified", "note": "Marbury v. Madison, real quote"},
+    {"index": 1, "expected_verdict": "verified", "note": "Gideon v. Wainwright, real quote"},
+    {"index": 2, "expected_verdict": "verified", "note": "Brown v. Board of Education, real quote"},
+    {"index": 3, "expected_verdict": "exists, unsupported", "note": "Terry v. Ohio misattributed holding"},
+    {"index": 4, "expected_verdict": "verified", "note": "Katz v. United States, real quote, pinpoint out of range"},
+    {"index": 5, "expected_verdict": "not found", "note": "347 U.S. 484 -- no case begins there"},
+    {"index": 6, "expected_verdict": "cannot verify", "note": "S. Ct. reporter not covered by this corpus"},
+    {"index": 7, "expected_verdict": "cannot verify", "note": "347 U.S. 17 exists per index but text not ingested"},
+    {"index": 8, "expected_verdict": "not found", "note": "347 U.S. 483 is Brown v. Board, not Smith v. Jones"},
+    {"index": 9, "expected_verdict": "cannot verify", "note": "346 U.S. is not a volume in this corpus"}
+  ]
+}

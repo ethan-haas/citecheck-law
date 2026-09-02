@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-1408537",
+  "cap_id": 1408537,
+  "name": "The Lessee of Hyam and others v. Edwards",
+  "name_abbreviation": "Lessee of Hyam v. Edwards",
+  "reporter": "U.S.",
+  "reporter_slug": "us",
+  "volume": 1,
+  "first_page": 2,
+  "last_page": 3,
+  "official_citation": "1 U.S. 1",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Dall. 1"
+    },
+    {
+      "type": "official",
+      "cite": "1 U.S. 1"
+    }
+  ],
+  "court": "Supreme Court of Pennsylvania",
+  "court_slug": null,
+  "jurisdiction": "Pa.",
+  "decision_date": "1759-04",
+  "docket_number": "",
+  "text": "Copy of a deed enrolled in the King’s Bench, in England, proved before the Lord Mayor of London to be a true one, allowed to be given in evidence to a jury, to supjiort a title to lands in this province,\n* Same Cause.\nCopy of tbe register of births and deaths of people called Quakers, in England, proved to be’ a true one before tbe Lord Mayor of London, allowed to be given in evidence, to prove the death of a person,\n11 Mod. 2, pl. 2.\nIn Kingston v. Lesley (10 S. & R. 389), C. J. Tilghman said, “ considering all the authorities, we must take it, that the case of Hyam v. Edwards is lawand upon the authority of this case, Kingston v. Lesley was determined. See also Fogler v. Simpson, cited 1 Yeates 17, 152, s. c. 2 Dall. 117; Douglass v. Sanderson, 2 Dall. 116, s. c. 1 Yeates 15; Winder v. Little, 1 Yeates 152; Lilly v. Kintzmiller, 1 Yeates 28; Keller v. Nutz, 5 S. & R. 251.",
+  "text_len": 886,
+  "source_url": "https://static.case.law/us/1/cases/0002-01.json",
+  "retrieved": "2026-09-02"
+}

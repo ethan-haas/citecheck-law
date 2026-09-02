@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-6714239",
+  "cap_id": 6714239,
+  "name": "Brown v. Belches",
+  "name_abbreviation": "Brown v. Belches",
+  "reporter": "Va.",
+  "reporter_slug": "va",
+  "volume": 1,
+  "first_page": 360,
+  "last_page": 361,
+  "official_citation": "1 Va. 9",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Wash. 9"
+    },
+    {
+      "type": "official",
+      "cite": "1 Va. 9"
+    }
+  ],
+  "court": "Court of Appeals of Virginia",
+  "court_slug": null,
+  "jurisdiction": "Va.",
+  "decision_date": "1791-04",
+  "docket_number": "",
+  "text": "The PRESIDENT.\n— The objection made to the judgment, is that it could not be entered against one partner only, upon a partnership transaction.\nThe case of Rice v. Shute, — 5 Burr. 2611 shews, that one partner may be sued alone, and that the plaintiff shall not be nonsuited at the trial upon proof that there are other partners. If the defendant would take advantage of that circumstance, he must plead in abatement, and point out the other partners.\nThe distinction between torts and contracts is over-ruled, and the principle seems to be established that the party contracted with may be sued alone.\nIn this case the plaintiff took out his writ against both ; one could not be found, and, according to the act of assembly, the suit abated as to him.\nThe defendant, who was arrested, pleads that he did not assume — The jury have found that he did — The defendant, without assigning errors or taking any exceptions, appeals from a general verdict.\nThough the declaration charges, that the defendant with another assumed, a fact which as to that other is not tried, yet, this does'*,not vitiate the defendant’s assumpsit, which is found against him.\nJudgment affirmed.",
+  "text_len": 1168,
+  "source_url": "https://static.case.law/va/1/cases/0360-02.json",
+  "retrieved": "2026-09-02"
+}

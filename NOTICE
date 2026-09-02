@@ -1,0 +1,15 @@
+Corpus provenance and licensing
+================================
+
+The code in this repository is MIT licensed (see LICENSE).
+
+The caselaw corpus under `corpus/` is a separate matter. It consists of United
+States court opinions, which are not subject to copyright, retrieved from the
+Caselaw Access Project (https://static.case.law). Every stored opinion records
+its own `source_url` and retrieval date in its JSON sidecar; all 352 opinions in
+this repository resolve to static.case.law.
+
+Reporters still under copyright are deliberately excluded: West's Supreme Court
+Reporter (`S. Ct.`) and the Lawyers' Edition (`L. Ed.`, `L. Ed. 2d`) appear
+nowhere in the corpus, and continuous integration asserts their absence on every
+run rather than relying on this note.

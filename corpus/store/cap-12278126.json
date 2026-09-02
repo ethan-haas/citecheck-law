@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-12278126",
+  "cap_id": 12278126,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Jonathon HAMLETTE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Hamlette",
+  "reporter": "Pa.",
+  "reporter_slug": "pa",
+  "volume": 639,
+  "first_page": 145,
+  "last_page": 145,
+  "official_citation": "639 Pa. 145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "639 Pa. 145"
+    },
+    {
+      "type": "parallel",
+      "cite": "159 A.3d 928"
+    }
+  ],
+  "court": "Supreme Court of Pennsylvania",
+  "court_slug": null,
+  "jurisdiction": "Pa.",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 283 EAL 2016",
+  "text": "ORDER\nPER CURIAM\nAND NOW, this 17th day of October, 2016, the Petition for Allowance of Appeal is DENIED.",
+  "text_len": 105,
+  "source_url": "https://static.case.law/pa/639/cases/0145-01.json",
+  "retrieved": "2026-09-02"
+}

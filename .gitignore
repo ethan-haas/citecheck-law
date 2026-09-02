@@ -1,0 +1,19 @@
+# scratch HTTP cache from corpus acquisition (rebuildable, large)
+corpus/.httpcache/
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+# node
+node_modules/
+# generated reports
+/report.json
+*.out.json
+# venvs
+.venv/
+venv/

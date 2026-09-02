@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-11978931",
+  "cap_id": 11978931,
+  "name": "Terri SHANAHAN and Joseph Shanahan, Appellants, v. Marcel R. GROEN and Groen, Laveson, Goldberg & Rubenstone",
+  "name_abbreviation": "Shanahan v. Groen",
+  "reporter": "Pa. Super.",
+  "reporter_slug": "pa-super",
+  "volume": 456,
+  "first_page": 32,
+  "last_page": 34,
+  "official_citation": "456 Pa. Super. 32",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "456 Pa. Super. 32"
+    },
+    {
+      "type": "parallel",
+      "cite": "689 A.2d 310"
+    }
+  ],
+  "court": "Superior Court of Pennsylvania",
+  "court_slug": null,
+  "jurisdiction": "Pa.",
+  "decision_date": "1997-02-12",
+  "docket_number": "",
+  "text": "JOHNSON, Judge.\nTerri and Joseph Shanahan appeal from the order that denied their motion to vacate a judgment of non pros. The trial court entered the judgment pursuant to Pa.R.C.P. 218 because the Shanahans’ counsel failed to appear at the status call of the list for the assignment of a trial date. We reverse.\nThe Shanahans contend on appeal that the trial court: (1) lacked authority to enter a judgment of non pros based on their counsel’s failure to appear at the status call of the list; and (2) abused its discretion in refusing to vacate the judgment of non pros.\nBased upon this Court’s recent Opinion in Gendrachi v. Cassidy, 455 Pa.Super. 518, 688 A.2d 1215 (1997)(en banc), we conclude that the trial court lacked authority to enter the judgment of non pros. Accordingly, we reverse the trial court’s order and remand for further proceedings consistent with Gendrachi.\nBecause of our resolution of the Shanahans’ first contention, we need not address their remaining contention.\nOrder REVERSED. Case REMANDED. Jurisdiction RELINQUISHED.\nCIRILLO, J., concurs in the result.",
+  "text_len": 1085,
+  "source_url": "https://static.case.law/pa-super/456/cases/0032-01.json",
+  "retrieved": "2026-09-02"
+}

@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-12456504",
+  "cap_id": 12456504,
+  "name": "MCCONNELL et al. v. DEPARTMENT OF LABOR",
+  "name_abbreviation": "McConnell v. Department of Labor",
+  "reporter": "Ga.",
+  "reporter_slug": "ga",
+  "volume": 302,
+  "first_page": 18,
+  "last_page": 19,
+  "official_citation": "302 Ga. 18",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "302 Ga. 18"
+    },
+    {
+      "type": "parallel",
+      "cite": "805 S.E.2d 79"
+    }
+  ],
+  "court": "Supreme Court of Georgia",
+  "court_slug": null,
+  "jurisdiction": "Ga.",
+  "decision_date": "2017-09-13",
+  "docket_number": "S16G1786",
+  "text": "MELTON, Presiding Justice.\nThomas McConnell filed this action against the Georgia Department of Labor (Department), alleging claims for negligence in disclosing “personal information,” invasion of privacy through the public disclosure of private facts, and breach of fiduciary duty. All of these claims are connected to the Department’s disclosure of the personal information, including social security numbers, of McConnell and some 4,000 proposed class members in an e-mail sent to approximately 1,000 Georgians. The Department filed a motion to dismiss McConnell’s claims, which the trial court granted on two bases: (1) McConnell’s claims were barred by sovereign immunity and (2) on the merits, each of McConnell’s contentions failed to state a claim upon which relief could be granted. McConnell then appealed the trial court’s dismissal order to the Court of Appeals. The Court of Appeals affirmed the order of the trial court after analyzing the merits of each of McConnell’s claims. McConnell v. Dept. of Labor, 337 Ga. App. 457 (787 SE2d 794) (2016). Although, in a footnote, the Court of Appeals mentioned the trial court’s alternative ruling that McConnell’s claims were barred by sovereign immunity, id. at 458 n. 2, the Court of Appeals, itself, did not consider the application of that doctrine to McConnell’s contentions. We granted certiorari to determine whether the Court of Appeals erred by failing to address sovereign immunity, and we now hold that the Court of Appeals did err in this manner.\nThe applicability of sovereign immunity to claims brought against the State is a jurisdictional issue. Indeed “[sjovereign immunity ... like various other rules of jurisdiction and justiciability ... is concerned with the extent to which a case properly may come before a court at all.” Lathrop v. Deal, 301 Ga. 408, 432 (III) (B) (801 SE2d 867) (2017). Therefore, the applicability of sovereign immunity is a threshold determination, and, if it does apply, a court lacks jurisdiction over the case and, concomitantly, lacks authority to decide the merits of a claim that is barred. For this reason, the Court of Appeals erred by deciding the merits of McConnell’s claims without first considering whether the doctrine of sovereign immunity bars any of his allegations against the State. Accordingly, we vacate the Court of Appeals’ judgment, and we remand the case with the direction to make the threshold determination of whether the trial court erred in its holding that McConnell’s claims are barred by sovereign immunity.\nDecided September 13, 2017.\nCohen, Cooper, Estep & Allen, Jefferson M. Allen, Scott A. Schwe-ber, for appellants.\nChristopher M. Carr, Attorney General, Kathleen M. Pacious, Deputy Attorney General, Loretta L. Pinkston-Pope, Senior Assistant Attorney General, Angela E. Cusimano, Assistant Attorney General, for appellee.\nJudgment vacated and case remanded with direction.\nHines, C. J., Benham, Hunstein, Nahmias, Blackwell, Boggs, JJ., Chief Judge Christopher C. Edwards, and Judge D. Scott Smith concur. Peterson and Grant, JJ., disqualified.\nThe Georgia Constitution provides broad sovereign immunity:\nExcept as specifically provided in this Paragraph, sovereign immunity extends to the state and all of its departments and agencies. The sovereign immunity of the state and its departments and agencies can only be waived by an Act of the General Assembly which specifically provides that sovereign immunity is thereby waived and the extent of such waiver.\nGa. Const. of 1983, Art. I, Sec. II, Par. IX (e).\nMcConnell contends that sovereign immunity for the specific types of claims he is making has been waived pursuant to the Georgia Tort Claims Act, OCGA §§ 50-21-20 to 50-21-37.",
+  "text_len": 3728,
+  "source_url": "https://static.case.law/ga/302/cases/0018-01.json",
+  "retrieved": "2026-09-02"
+}

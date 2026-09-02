@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-949859",
+  "cap_id": 949859,
+  "name": "Keim v. The Bank of Penn Township",
+  "name_abbreviation": "Keim v. Bank of Penn Township",
+  "reporter": "Pa.",
+  "reporter_slug": "pa",
+  "volume": 1,
+  "first_page": 36,
+  "last_page": 38,
+  "official_citation": "1 Pa. 36",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 36"
+    }
+  ],
+  "court": "Supreme Court of Pennsylvania",
+  "court_slug": null,
+  "jurisdiction": "Pa.",
+  "decision_date": "1845-05",
+  "docket_number": "",
+  "text": "The opinion of the Court was delivered by\nSergeant, J.\nThe ground of usuiy does not appear in.the pleadings, nor does it seem to have been alleged on the part of he defendant in the court below, nor was it even offered to show the plaintiff knew the Schuylkill notes were at a discount. The question for our decision is, whether the evidence offered entitled the defendant to a deduction, on the ground that the notes received were of less value to the defendant than the amount for which the note was given. Evidence of this kind is not admissible, unless it be held, that in every case, where a defendant gives a bond or note for property or value of any kind, such a defence may be entertained, and that the party is not to pay what he promised to pay, but what the thing received turned out to be worth in his hands, where there was no fraud, mistake, misrepresentation, or other ground of equitable defence.\nJudgment affirmed.",
+  "text_len": 931,
+  "source_url": "https://static.case.law/pa/1/cases/0036-01.json",
+  "retrieved": "2026-09-02"
+}

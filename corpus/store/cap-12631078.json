@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-12631078",
+  "cap_id": 12631078,
+  "name": "STATE of North Carolina v. Curtis P. CHEEK.",
+  "name_abbreviation": "State v. Cheek",
+  "reporter": "S.E.2d",
+  "reporter_slug": "se2d",
+  "volume": 590,
+  "first_page": 272,
+  "last_page": 272,
+  "official_citation": "590 S.E.2d 272",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "590 S.E.2d 272"
+    }
+  ],
+  "court": "Supreme Court of North Carolina",
+  "court_slug": null,
+  "jurisdiction": "N.C.",
+  "decision_date": "2003-12-04",
+  "docket_number": "No. 562P03.",
+  "text": "Upon consideration of the petition filed by Defendant in this matter for a writ of certiorari to review the order of the North Carolina Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n\"Dismissed by order of the Court in conference, this the 4th day of December 2003.\"\nUpon consideration of the petition filed by Defendant in this matter for a writ of certiorari to review the order of the Superior Court, Guilford County, the following order was entered and is hereby certified to the Superior Court of that County:\n\"Dismissed by order of the Court in conference, this the 4th day of December 2003.\"",
+  "text_len": 665,
+  "source_url": "https://static.case.law/se2d/590/cases/0272-01.json",
+  "retrieved": "2026-09-02"
+}

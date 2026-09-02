@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-949883",
+  "cap_id": 949883,
+  "name": "Baney and Kurtz v. Killmer",
+  "name_abbreviation": "Baney v. Killmer",
+  "reporter": "Pa.",
+  "reporter_slug": "pa",
+  "volume": 1,
+  "first_page": 30,
+  "last_page": 36,
+  "official_citation": "1 Pa. 30",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 30"
+    }
+  ],
+  "court": "Supreme Court of Pennsylvania",
+  "court_slug": null,
+  "jurisdiction": "Pa.",
+  "decision_date": "1845-05",
+  "docket_number": "",
+  "text": "The opinion of the court was delivered by\nGibson, C. J,'\nWas the notice given by the vendees, that they would not receive a conveyance, a proposal to rescind the contract from the beginning; and was the vendor’s consequent resale of the land an acceptance of it? Were the plaintiff before the court in the attitude of a vendor seeking specific execution, his conduct would certainly bar him. As was said in Ley v. Huber, 3 Watts, 368, a chancellor is deaf to one who was not the owner at the time of the bargain: much less would he attempt to execute a contract which the complainant has rendered impracticable. But here the plaintiff stands on a legal title; and what is there in the case to impair it ? It has been suggested that as the vendees were not bound to elect between an-execution of the. contract or payment of stipulated damages, before the day fixed for the conveyance, they were at liberty to revoke their election in the mean time; and that the vendor was consequently bound to retain the title, in order to be ready for the event. But was he bound to retain it while the market was falling ? He was certain that the vendees would not make their election unless the market should take a turn; and to require him to be ready, at the hazard of losing without a chance of gaining, would be palpably unjust. Had the land risen in value, the vendees would doubtless have taken it at the stipulated price; but had it fallen, they would as certainly have rejected it.. After-they had deliberately given the bargain up, the vendor was bound by no duty, legal or moral, to bide their time. As no day was fixed for the declaration of their election, they might declare it at any time; and an election once made is irrevocable. (1 Rol. 726, 1. 15.) But there was no proposal to rescind, and consequently no acceptance of one. What was the contract ? The plaintiff agreed, by articles in the ordinary form, to sell his farm to the defendants, and convey the title at a particular day; while they, on the other' hand, executed the sealed paper on which suit is brought, and by which they promised to pay him five hundred dollars at the day, as part of the purchase money, but with this peculiar qualification: “ Should we, however, not comply with the condition of said purchase, then the said sum shall be the assessed and liquidated damages due said Killmer for our non-performance, and shall be collected as other debts of similar amount.” When, therefore, they announced their determination to throw the farm on the vendor’s hands, and gave him notice to govern himself accordingly, they did not propose to rescind, but expressed a determination to act in a particular way on the basis of the contract itself. They had reserved a right to reject the land on payment of a specific sum; and it would be a strained construction to hold an election of the alternative to be an offer to undo the whole contract, and the vendors consequent resale of the land to be an acceptance of it. He had a right to understand the notice to be an act of election on the terms of the contract, which he had no power to resist;. and all that remained was to do the best he could with the land, for his own interest.\n. Judgment affirmed.",
+  "text_len": 3223,
+  "source_url": "https://static.case.law/pa/1/cases/0030-01.json",
+  "retrieved": "2026-09-02"
+}

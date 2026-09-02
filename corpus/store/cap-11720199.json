@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-11720199",
+  "cap_id": 11720199,
+  "name": "FRYE v. UNITED STATES",
+  "name_abbreviation": "Frye v. United States",
+  "reporter": "F.",
+  "reporter_slug": "f",
+  "volume": 293,
+  "first_page": 1013,
+  "last_page": 1014,
+  "official_citation": "293 F. 1013",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "293 F. 1013"
+    }
+  ],
+  "court": "United States Court of Appeals for the District of Columbia",
+  "court_slug": null,
+  "jurisdiction": "U.S.",
+  "decision_date": "1923-12-03",
+  "docket_number": "No. 3968",
+  "text": "VAN ORSDRP, Associate Justice.\nAppellant, defendant below, was convicted of the crime of murder in the second degree, and from the judgment prosecutes this appeal.\nA single assignment of error is presented for our consideration. In the course of the trial counsel for defendant offered an expert witness to testify to the result of a deception test made upon defendant. The test is described as the systolic blood pressm-e deception test. It is asserted that blood pressure is influenced by change in the emotions of the witness, and that the systolic blood pressure rises are brought about by nervous impulses sent to the sympathetic branch of the autonomic nervous system. Scientific experiments, it is claimed, have demonstrated that fear, rage, and pain always produce a rise of systolic blood pressure, and that conscious deception or falsehood, concealment of facts, or guilt of crime, accompanied by fear of detection when the person is under examination, raises the systolic blood pressure in a curve, which corresponds exactly to the struggle going on in the subject’s mind, between fear and attempted control of that fear, as the examination touches the vital points in respect of which he is attempting to deceive the examiner.\nIn other words, the theory seems to be that truth is spontaneous, and comes without conscious effort, while the utterance of a falsehood re-citares a conscious effort, which is reflected in the blood pressure. The rise thus produced is easily detected and distinguished from the rise produced by mere fear of the examination itself. In the former instance, the pressure rises higher than in the latter, and is more pronounced as the examination proceeds, while in the latter case, if the subject is telling the truth, the pressure registers highest at the beginning of the examination, and gradually diminishes as the examination proceeds.\nPrior to the trial defendant was subjected to this deception test, and counsel offered the scientist who conducted the test as an expert to testify to the results obtained. The offer was objected to by counsel for the government, and the court sustained the objection. Counsel for defendant then offered to have the proffered witness conduct a test in the presence of the jury. This also was denied.\nCounsel for defendant, in their able presentation of the novel question involved, correctly state in their brief that no cases directly in point have been found. The broad ground, however, upon which they plant their case, is succinctly stated in their brief as follows:\n“The rule is that the opinions of experts or skilled witnesses are admissible in evidence in those cases in which the matter of inquiry is such that inexperienced persons are unlikely to prove capable of forming a correct judgment upon it, for the reason that the subject-matter so far partakes of a science, art, or trade as to require a previous habit or experience or study in it, in order to acquire a knowledge of it. When the question involved does not lie within the range of common experience or common knowledge, but requires special experience or special knowledge, then the opinions of witnesses skilled in that particular science, art, or trade to which the question relates are admissible in evidence.”\nNumerous cases are cited in support of this rule. Just when a scientific principle or discovery crosses the line between the experimental and demonstrable stages is difficult to define. Somewhere in this twilight zone the evidential force of the principle must be recognized, and while courts will go a long way in admitting expert testimony deduced from a well-recognized scientific principle or discovery, the thing from which the deduction is made must be sufficiently established to have gained general acceptance in the particular field in which it belongs.\nWe think the systolic blood pressure deception test has not yet gained such standing and scientific recognition among physiological and psychological authorities as would justify the courts in admitting expert testimony deduced from the discovery, development, and experiments thus far made.\nThe judgment is affirmed.\n<¡&wkey;For other eases see same topic & KEY-NUMBER in all Key-Numbered Digests & Indexes",
+  "text_len": 4236,
+  "source_url": "https://static.case.law/f/293/cases/1013-01.json",
+  "retrieved": "2026-09-02"
+}

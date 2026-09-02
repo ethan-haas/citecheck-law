@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-1408376",
+  "cap_id": 1408376,
+  "name": "Anonymous",
+  "name_abbreviation": "Anonymous",
+  "reporter": "U.S.",
+  "reporter_slug": "us",
+  "volume": 1,
+  "first_page": 1,
+  "last_page": 2,
+  "official_citation": "1 U.S. 1",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Dall. 1"
+    },
+    {
+      "type": "official",
+      "cite": "1 U.S. 1"
+    }
+  ],
+  "court": "Supreme Court of Pennsylvania",
+  "court_slug": null,
+  "jurisdiction": "Pa.",
+  "decision_date": "1754-09",
+  "docket_number": "",
+  "text": "Adjudged by the court, that the statute of frauds and perjuries does not extend to this province, though made before Mr. Penn’s charter: the Governor of New York having exercised a jurisdiction here, before the making that statute, by virtue of the word territories, in the grant to the Duke of York, of New York and New Jersey,\nThe rule laid down by C. J. McKear, in Morris’s Lessee v. Vanderen, post, p. 67, “ that statutes made in Great Britain before the settlement of Pennsylvania, have no force here, unless they are convenient, and adapted to the circumstances of the country; and that statutes made since the settlement of Pennsylvania have no force here, unless the colonies are particularly named,” was, in substance, adopted by the Judges of the Supreme Court, in 1807, in their report to the legislature; with the additional observation, that certain British statutes passed since the settlement of the province, in which the colonies are not particularly named, have been incorporated with our law, either by recognition of the legislature, or by force of long-continued practice in the courts of justice. Of these, the statutes 3 & 4 Anne, c. 9, and 7 Geo. II., c. 20, are instances ; and nine others are inserted in the report of the judges. The question when the settlement of Pennsylvania took place, with reference to the binding operation of British statutes, does not seem to have been discussed in any other case, except that in the text. The statute of frauds (29 Car. II, c. 3) was passed in 1676; four years* previous to the date of the charter to William Ppm, and six years previous to his actual settlement of the province; but two years after the date of the patent to the Duke of York, by whose order, it is said, a code of laws was prepared for New York and its dependencies. Jurisdiction was certainly exercised over the western hank of the Delaware, under the authority of the Duke of York, prior to the landing of William Penn; but the remarks of the judges, in cases subsequent to that in the text, when discussing the question of the operation of British statutes, seems to look to the settlement of the province as commencing with the arrival of the latter. The charter of Charles II. to William Penn declared, § 6, “ that the laws for regulating and governing property within the said province; as well for the descent and enjoyment of lands, as likewise for the enjoyment and succession of goods and chattels, and likewise as to felonies, shall be and continue the same as they shall be, for the time being, by the general course of the law in our kingdom of England, until the said laws shall be altered by the said William Penn, his heirs or assigns, and by the freemen of the said province, their delegates or deputies, or the greater part of them;” a provision which seems to imply that the emigrants of that period carried with them all the laws — both statute and common law — then existing in England. The true reason, probably, why the statute of frauds was not extended, in practice, to Pennsylvania, was, that its provisions were inapplicable to the simplicity of the earlier periods of Pennsylvania, and required greater expertness than the practitioners of those days generally possessed. An act of assembly passed on the 21st of March 1772 (2 Sm. L. 389), introduced part of the statute into our code. The first section of the act is in substance the same as the first three sections of the statute of Charles II.; and the 2d, 3d, 4th and 5th sections of the act correspond with the 14th, 15th, 16th and 25th sections of the statute. The important provisions contained in the 4th and 7th sections of the statute were omitted by the framers of the act of assembly.\nThe statute of frauds and perjuries was passed in 1676, to take effect from and after the 24th June 1677 ; but the Duke of York’s code of Laws was extended to the territories on the Delaware, embracing the present states of Pennsylvania and Delaware, on the 25th September 1676, by an ordinance of Governor Andross. Old Province Laws, 455. The Duke’s Laws have been attributed to the pen of the Earl of Clarendon. Ibid. 414.\nBut see acts of 26 April 1855 (P. L. 308), and 22 April 1856 (P. L. 633), which have been passed since Mr. Wharton’s note was written.",
+  "text_len": 4273,
+  "source_url": "https://static.case.law/us/1/cases/0001-01.json",
+  "retrieved": "2026-09-02"
+}

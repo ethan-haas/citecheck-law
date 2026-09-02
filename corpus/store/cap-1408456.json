@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-1408456",
+  "cap_id": 1408456,
+  "name": "Stevenson v. Pemberton",
+  "name_abbreviation": "Stevenson v. Pemberton",
+  "reporter": "U.S.",
+  "reporter_slug": "us",
+  "volume": 1,
+  "first_page": 4,
+  "last_page": 5,
+  "official_citation": "1 U.S. 3",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Dall. 3"
+    },
+    {
+      "type": "official",
+      "cite": "1 U.S. 3"
+    }
+  ],
+  "court": "Supreme Court of Pennsylvania",
+  "court_slug": null,
+  "jurisdiction": "Pa.",
+  "decision_date": "1760-04",
+  "docket_number": "",
+  "text": "*By the Court.\nThis rum appears to have been sent to satisfy P.’s debt. If it had been money, there could have been no doubt but the defendant would have retained it. And the only difference is, that a commodity was sent, which must be converted into money, before the sum to be paid to P. could be ascertained ; but, as to P.’s interest in it, tbe case was the same. Therefore, judgment, by the whole Court, was given for the defendant,\nChew and Moland, pro Quer. Galloway and Dickenson, pro Def.\nSee United States v. Vaughan, 3 Binn. 394; Corser a Craig, 1 W. C. C. 424; Sharpless v. Welsh, 4 Dall. 279; Moore v. Spackman, 12 S. & R. 291.",
+  "text_len": 640,
+  "source_url": "https://static.case.law/us/1/cases/0004-01.json",
+  "retrieved": "2026-09-02"
+}

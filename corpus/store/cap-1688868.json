@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-1688868",
+  "cap_id": 1688868,
+  "name": "Mitchell vs. Mitchell",
+  "name_abbreviation": "Mitchell v. Mitchell",
+  "reporter": "Md.",
+  "reporter_slug": "md",
+  "volume": 1,
+  "first_page": 55,
+  "last_page": 59,
+  "official_citation": "1 Md. 55",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Md. 55"
+    }
+  ],
+  "court": "Court of Appeals of Maryland",
+  "court_slug": null,
+  "jurisdiction": "Md.",
+  "decision_date": "1851-12",
+  "docket_number": "",
+  "text": "The opinion of the court was delivered by\nLe Grand, C. J.,\nwho, after stating the case as above, proceeded:\nWe think the evidence was properly rejected by the county court. This is an action for mesne profits, and, although we have made the most diligent search, we have been unable to find a single reported case, in which such an action has been maintained before a recovery in ejectment. The labors of the learned counsel for the appellant, so far as this court is informed, were attended, in this particular, with no better success. In all the cases to which we have had reference, in which an action for mesne profits was maintained, it appeared, there had been a previous recovery in ejectment, and in the elementary treatises the action is declared to be, “consequential to the recovery in ejectment.” 2 Stephens Nisi Prius, 1489. The origin of this action is thus explained in Adams on Ejectment, 379: “Whilst,” says that writer, “the action of ejectment remained in its original state, and the ancient practice prevailed, the measure of the damages given by the jury, when the plaintiff recovered his term, were the profits of the land accruing during the tortious holding of the defendant. But as upon the introduction of the modern system, the proceedings became altogether fictitious, and the plaintiff merely nominal, the damages assessed became nominal also; and they have not since that time included the injury sustained by the claimant, from the loss of his possession. It was therefore necessary, to give another remedy to the claimant for these damages; and this was effected by a new application of the common action of trespass vi et armis, generally termed an action for mesne profits, in which action, the plaintiff complains of his ejection and loss of possession, states the time during which the defendant (the real tenant,) held the lands and took the rents and profits, and prays judgment for the damages which he has thereby sustained.” At page 382 of the same writer, it is said: “The action for mesne profits may he brought pending a writ of error in ejectment, and the plaintiff may proceed to ascertain his damages, and to sign bis judgment; but the court will slay execution until the writ of error is determined.” These views are fully sustained by the references made by the author, and show that this action was prematurely brought.\nIt being conceded in argument, by counsel for appellant, that there had been no recovery in ejectment, prior to the institution of this action, this court cannot send it hack to supply proof, which it is admitted has no existence.\nJudgment affirmed,",
+  "text_len": 2619,
+  "source_url": "https://static.case.law/md/1/cases/0055-01.json",
+  "retrieved": "2026-09-02"
+}

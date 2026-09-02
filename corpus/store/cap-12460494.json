@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-12460494",
+  "cap_id": 12460494,
+  "name": "IN THE MATTER OF NANCY I. OXFELD, AN ATTORNEY AT LAW (ATTORNEY NO. 004421977)",
+  "name_abbreviation": "In re Oxfeld",
+  "reporter": "N.J.",
+  "reporter_slug": "nj",
+  "volume": 231,
+  "first_page": 5,
+  "last_page": 6,
+  "official_citation": "231 N.J. 5",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "231 N.J. 5"
+    },
+    {
+      "type": "parallel",
+      "cite": "171 A.3d 197"
+    }
+  ],
+  "court": "Supreme Court of New Jersey",
+  "court_slug": null,
+  "jurisdiction": "N.J.",
+  "decision_date": "2017-10-04",
+  "docket_number": "079312",
+  "text": "ORDER\nThe Disciplinary Review Board having filed with the Court its decision in DRB 16-277, concluding that NANCY I. OXFELD of NEWARK, who was admitted to the bar of this State in 1977, should be suspended from the practice of law for a period of six months for violating RPC 1.3 (lack of diligence), and RPC 1.4(b)(failure to keep a client reasonably informed about the status of a matter);\nAnd the Court having determined from its review of the matter that a three-month term of suspension is the appropriate quantum of discipline for respondent’s unethical conduct;\nAnd good cause appearing;\nIt is ORDERED that NANCY I. OXFELD is suspended from the practice of law for a period of three months, effective November 3, 2017, and until the further Order of the Court; and it is further\nORDERED that respondent comply with Rule 1:20-20 dealing with suspended attorneys; and it is further\nORDERED that pursuant to Rule 1:20—20(c), respondent’s failure to comply with the Affidavit of Compliance requirement of Rule 1:20—20(b)(15) may (1) preclude the Disciplinary Review Board from considering respondent’s petition for reinstatement for a period of up to six months from the date respondent files proof of compliance; (2) be found to constitute a violation of RPC 8.1(b) and RPC 8.4(d); and (3) provide a basis for an action for contempt pursuant to Rule 1:10-2; and it is further\nORDERED that the entire record of this matter be made a permanent part of respondent’s file as an attorney at law of this State; and it is further\nORDERED that respondent reimburse the Disciplinary Oversight Committee for appropriate administrative costs and actual expenses incurred in the prosecution of this matter, as provided in Rule 1:20-17.",
+  "text_len": 1727,
+  "source_url": "https://static.case.law/nj/231/cases/0005-01.json",
+  "retrieved": "2026-09-02"
+}

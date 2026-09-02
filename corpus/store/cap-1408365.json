@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-1408365",
+  "cap_id": 1408365,
+  "name": "Bethel v. Lloyd and others",
+  "name_abbreviation": "Bethel v. Lloyd",
+  "reporter": "U.S.",
+  "reporter_slug": "us",
+  "volume": 1,
+  "first_page": 3,
+  "last_page": 3,
+  "official_citation": "1 U.S. 2",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Dall. 2"
+    },
+    {
+      "type": "official",
+      "cite": "1 U.S. 2"
+    }
+  ],
+  "court": "Supreme Court of Pennsylvania",
+  "court_slug": null,
+  "jurisdiction": "Pa.",
+  "decision_date": "1759-04",
+  "docket_number": "",
+  "text": "Partition. Plea non tenent insimul, &c. Defendants permitted to give in evidence to the jury, that some of them were not tenants of the freehold, but only tenants at will.\nCro. Eliz. 759.\n5) See Bates v. McCrory, 3 Yeates 192; M'Kee v. Straub, 2 Binn. 1.",
+  "text_len": 254,
+  "source_url": "https://static.case.law/us/1/cases/0003-01.json",
+  "retrieved": "2026-09-02"
+}

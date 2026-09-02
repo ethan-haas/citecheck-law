@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-1983009",
+  "cap_id": 1983009,
+  "name": "A. A. BECK and JOE GRIFFIN, et al., v. GAME AND FRESH WATER FISH COMMISSION of the State of Florida, et al.",
+  "name_abbreviation": "Beck v. Game & Fresh Water Fish Commission",
+  "reporter": "Fla.",
+  "reporter_slug": "fla",
+  "volume": 160,
+  "first_page": 1,
+  "last_page": 3,
+  "official_citation": "160 Fla. 1",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 Fla. 1"
+    },
+    {
+      "type": "parallel",
+      "cite": "33 So.2d 594"
+    }
+  ],
+  "court": "Florida Supreme Court",
+  "court_slug": null,
+  "jurisdiction": "Fla.",
+  "decision_date": "1948-01-06",
+  "docket_number": "",
+  "text": "ADAMS, J.:\nIn this case the 'Game and Fresh Water Fish Commission filed a bill in equity against A. A. Beck and Joe Griffin, et al., seeking to declare certain acts of the Legislature unconstitutional. The State Board of Conservation was allowed to intervene. A final decree was entered for the plaintiff on the pleadings. The appeal raises the question of whether the legislature has the power to enact laws inconsistent with rules of the plaintiff Commission affecting the waters of Lake Okeechobee and certain portions of the St. Johns River.\nThe plaintiff Commission came into existence by virtue of Article IV, Section 30, being an amendment added in 1942. Heretofore we have commented upon the history, purpose and wide scope of its power. Sylvester v. Tindall, 154 Fla. 663, 18 So. (2nd) 892. In 1944 the Commission adopted rules designed to prevent commercial fishing insofar as fresh water fish were concerned and particularly in Lake Okeechobee and the St. Johns River. In 1947 the Legislature enacted several statutes. House Bill No. 922, in substance, declared certain waters in the St. Johns River in Putnam County to be in fact salt water, thereby removing the area from the jurisdiction of the plaintiff Commission and placing it under the State Board of Conservation. A similar act was also passed in reference to Lake Okeechobee. See House Bill No. 1166. House Bill No. 1190 was also passed which levied an excise tax upon crappie and bream taken from said waters, which tax was to be paid to the State Board of Conservation.\nThe question is squarely presented — whether the Legislature can oust the constitutional Commission from control over fresh water fish in Lake Okeechobee and the St. Johns River by making a legislative finding that said waters are salt.\nIn Price v. City of St. Petersburg, 158 Fla. 705, 29 So. (2nd) 753, (3rd headnote) we held:\n“The constitutional provision creating a Game and Fresh Water Fish Commission and vesting in it exclusive power to regulate game and fresh water fish industry of State divested Legislature of power to regulate or control the taking of fresh water fish in the state. F.S.A. Const. Art. 4, S 30.”\nThe case of State v. Sullivan, ...... Fla. ......, 30 So. (2nd) 919, settled the correctness of this decree beyond doubt.\nWe do not overlook the contention that the Legislature has from time immemorial classified the waters of the state either salt or fresh; that when this amendment was adopted certain of these waters were actually classed as salt waters. The Constitutional amendment expressly provides, however, that all existing laws inconsistent herewith shall no longer remain in force and effect.\nThe decree is affirmed.\nTERRELL, Acting Chief Justice, BUFORD, SEBRING and BARNS, JJ., concur.\nTHOMAS, C. J., and CHAPMAN, J., not participating.",
+  "text_len": 2817,
+  "source_url": "https://static.case.law/fla/160/cases/0001-01.json",
+  "retrieved": "2026-09-02"
+}

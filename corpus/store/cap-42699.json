@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-42699",
+  "cap_id": 42699,
+  "name": "Commonwealth versus Elijah Catlin",
+  "name_abbreviation": "Commonwealth v. Catlin",
+  "reporter": "Mass.",
+  "reporter_slug": "mass",
+  "volume": 1,
+  "first_page": 7,
+  "last_page": 9,
+  "official_citation": "1 Mass. 7",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Will. 7"
+    },
+    {
+      "type": "official",
+      "cite": "1 Mass. 7"
+    }
+  ],
+  "court": "Massachusetts Supreme Judicial Court",
+  "court_slug": null,
+  "jurisdiction": "Mass.",
+  "decision_date": "1804-09",
+  "docket_number": "",
+  "text": "The Court (Strong Sedgwick, Sewall, and Thatcher, justices) were unanimously of opinion, and Strong, J., who charged the jury, stated it as the unanimous opinion of the Court, that although it might be true that the facts proved amounted to an offence, yet that they did not prove the offence charged in the indictment; that the offence charged is open gross lewdness and lascivious behavior, and nothing more: admitting every thing which has been testified to be true, there is certainly nothing more proved than secret or private lewdness and lascivious behavior, which cannot in any degree support the charge in the indictment.",
+  "text_len": 630,
+  "source_url": "https://static.case.law/mass/1/cases/0007-01.json",
+  "retrieved": "2026-09-02"
+}

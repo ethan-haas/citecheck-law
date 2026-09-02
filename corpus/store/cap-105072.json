@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-105072",
+  "cap_id": 105072,
+  "name": "EMMA M. AMES, PROSECUTOR-APPELLANT, v. SHEFFIELD FARMS COMPANY, INC., A NEW YORK CORPORATION, LICENSED TO DO BUSINESS IN NEW JERSEY, RESPONDENT",
+  "name_abbreviation": "Ames v. Sheffield Farms Co.",
+  "reporter": "N.J.",
+  "reporter_slug": "nj",
+  "volume": 1,
+  "first_page": 11,
+  "last_page": 12,
+  "official_citation": "1 N.J. 11",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.J. 11"
+    }
+  ],
+  "court": "Supreme Court of New Jersey",
+  "court_slug": null,
+  "jurisdiction": "N.J.",
+  "decision_date": "1948-10-11",
+  "docket_number": "",
+  "text": "Per Curiam.\nThis is a Workmen’s Compensation case wherein payment is sought under the act for the death of petitioner-appellant’s decedent due to cardiac failure.\nIn the Bureau judgment was entered in favor of appellant. On appeal to the Essex Pleas that judgment was reversed and the petition dismissed. On certiorari the former Supreme Court affirmed. This appeal is from that judgment.\nA recital of the facts, which admittedly were not in dispute, will serve no useful purpose.\nA review of the medical testimony demonstrates that it preponderated heavily in favor of respondent. There is a presumption that any death from heart disease is the result of natural causes. “The law places the burden of proof on the petitioner for compensation; and it is not sustained unless the evidence preponderates in favor of the tendered hypothesis. That must be a rational inference, i. e., based upon a preponderance of probabilities according to the common experience of mankind. It is required to be a probable or more probable hypothesis with reference to the possibility of other hypotheses”. Lohndorf v. Peper Bros. Paint Co., 134 N. J. L. 156 (Sup. Ct. 1946) aff’d 135 N. J. L. 352 (E. & A. 1947. J The appellant did not meet the test thus laid down.\nThe judgment of the Supreme Court is accordingly affirmed.\nFor affirmance: Chief Justice Vanderbilt and Justices Case, Heher, Oliphant, Wacheneeld, Burling and Ackerson—7.\nFor reversal: None.",
+  "text_len": 1439,
+  "source_url": "https://static.case.law/nj/1/cases/0011-01.json",
+  "retrieved": "2026-09-02"
+}

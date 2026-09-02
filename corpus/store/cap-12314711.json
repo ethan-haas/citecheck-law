@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-12314711",
+  "cap_id": 12314711,
+  "name": "ATTORNEY GRIEVANCE COMMISSION OF MARYLAND, Petitioner v. Marianne Elizabeth MORRIS, Respondent",
+  "name_abbreviation": "Attorney Grievance Commission v. Morris",
+  "reporter": "Md.",
+  "reporter_slug": "md",
+  "volume": 456,
+  "first_page": 44,
+  "last_page": 44,
+  "official_citation": "456 Md. 44",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "456 Md. 44"
+    },
+    {
+      "type": "parallel",
+      "cite": "169 A.3d 458"
+    }
+  ],
+  "court": "Court of Appeals of Maryland",
+  "court_slug": null,
+  "jurisdiction": "Md.",
+  "decision_date": "2017-09-07",
+  "docket_number": "Misc. Docket AG No. 89",
+  "text": "ORDER\nThis matter came before the Court on the Joint Petition of the Attorney Grievance Commission of Maryland and Respondent, Marianne Elizabeth Morris, to indefinitely suspend the Respondent from the practice of law for violations of Rules 8.4(a)-(d) of the Maryland Lawyers’ Rules of Professional Conduct. The Court having considered the Petition, and the record herein, it is this 7th day of September, 2017;\nORDERED, that the Respondent, Marianne Elizabeth Morris, be indefinitely suspended from the practice of law in the State of Maryland, effective thirty (30) days from the date of this Order; and it is further\nORDERED, that, thirty (30) days from the date of this Order, the Clerk of this Court shall strike the name of Marianne Elizabeth Morris from the register of attorneys in the Court and certify that fact to the trustees of the Client Protection Fund of the Bar of Maryland and all Clerks of all judicial tribunals in this State in accordance with Maryland Rule 19-762(b).",
+  "text_len": 990,
+  "source_url": "https://static.case.law/md/456/cases/0044-01.json",
+  "retrieved": "2026-09-02"
+}

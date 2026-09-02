@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-12314715",
+  "cap_id": 12314715,
+  "name": "ATTORNEY GRIEVANCE COMMISSION OF MARYLAND, Petitioner, v. Jibril Abdussaboor BROWN, Respondent",
+  "name_abbreviation": "Attorney Grievance Commission v. Brown",
+  "reporter": "Md.",
+  "reporter_slug": "md",
+  "volume": 456,
+  "first_page": 45,
+  "last_page": 45,
+  "official_citation": "456 Md. 45",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "456 Md. 45"
+    },
+    {
+      "type": "parallel",
+      "cite": "169 A.3d 952"
+    }
+  ],
+  "court": "Court of Appeals of Maryland",
+  "court_slug": null,
+  "jurisdiction": "Md.",
+  "decision_date": "2017-09-11",
+  "docket_number": "Misc. Docket AG No. 84",
+  "text": "ORDER\nThis matter came before the Court on the Joint Petition for Reprimand by Consent Filed by the Attorney Grievance Commission of Maryland and Respondent, Jibril A. Brown. The Court, having considered the Petition and the record herein, it is this 11th day of September, 2017,\nORDERED, that Respondent, Jibril A. Brown, be and he is hereby REPRIMANDED for violating Rules 8.1(b) and 8.4(d) of the Maryland Lawyers’ Rules of Professional Conduct.",
+  "text_len": 448,
+  "source_url": "https://static.case.law/md/456/cases/0045-01.json",
+  "retrieved": "2026-09-02"
+}

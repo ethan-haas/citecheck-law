@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-2241534",
+  "cap_id": 2241534,
+  "name": "Roman Gurtler, Appellant, v. Union Parts Manufacturing Co., Inc., Respondent",
+  "name_abbreviation": "Gurtler v. Union Parts Manufacturing Co.",
+  "reporter": "N.Y.2d",
+  "reporter_slug": "ny-2d",
+  "volume": 1,
+  "first_page": 5,
+  "last_page": 8,
+  "official_citation": "1 N.Y.2d 5",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y.2d 5"
+    }
+  ],
+  "court": "New York Court of Appeals",
+  "court_slug": null,
+  "jurisdiction": "N.Y.",
+  "decision_date": "1956-03-15",
+  "docket_number": "",
+  "text": "Per Curiam.\nIt has long been settled that what is defama-\ntory— that is, actionable without allegation or proof of special damage—-when written may be held not actionable per se if spoken. (See Hartmann v. Winchell, 296 N. Y. 296, 298; Kleeberg v. Sipser, 265 N. Y, 87, 91; Moore v. Francis, 121 N. Y. 199, 204; Kinney v. Nash, 3 N. Y. 177, 178; Oakley v. Farrington, 1 Johns. Cas. 129, 130.) Having applicable principles in mind, it is clear that the words attributed to defendant corporation’s president are not slanderous per se. Consequently, absent a sufficient allegation of special damage, the complaint fails to state a cause of action and was properly dismissed by the Appellate Division (285 App. Div. 643). However, in view of plaintiff’s assertion, made through counsel, that he has suffered special damages, he should be permitted to amend his complaint to include an allegation to that effect. (Civ. Prac. Act, § 584; see. Didier v. Macfadden Publications, 299 N. Y. 49, 53; Al Raschid v. News Syndicate Co., 265 N. Y. 1, 5.)\nThe judgment of the Appellate Division should be affirmed, with leave to plaintiff to serve an amended complaint within twenty days.\nConway, Ch. J., Desmond, Fuld, Froessel, Van Voorhis and Burke, JJ., concur; Dye, J., taking no part.\nJudgment affirmed, etc.",
+  "text_len": 1298,
+  "source_url": "https://static.case.law/ny-2d/1/cases/0005-01.json",
+  "retrieved": "2026-09-02"
+}

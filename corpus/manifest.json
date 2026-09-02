@@ -1,0 +1,2818 @@
+[
+  {
+    "opinion_id": "cap-10032986",
+    "name_abbreviation": "Hattier v. Martinez",
+    "official_citation": "1 So. 2d 51",
+    "source_url": "https://static.case.law/so2d/1/cases/0051-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12172
+  },
+  {
+    "opinion_id": "cap-10033148",
+    "name_abbreviation": "Ouachita Parish School Board v. Clark",
+    "official_citation": "1 So. 2d 54",
+    "source_url": "https://static.case.law/so2d/1/cases/0054-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 27854
+  },
+  {
+    "opinion_id": "cap-10033290",
+    "name_abbreviation": "State v. Carter",
+    "official_citation": "1 So. 2d 62",
+    "source_url": "https://static.case.law/so2d/1/cases/0062-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5442
+  },
+  {
+    "opinion_id": "cap-10033449",
+    "name_abbreviation": "Texas & Pac. Ry. Co. v. Burch",
+    "official_citation": "1 So. 2d 64",
+    "source_url": "https://static.case.law/so2d/1/cases/0064-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4567
+  },
+  {
+    "opinion_id": "cap-10033637",
+    "name_abbreviation": "Guillory v. Jones",
+    "official_citation": "1 So. 2d 65",
+    "source_url": "https://static.case.law/so2d/1/cases/0065-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 38144
+  },
+  {
+    "opinion_id": "cap-10290381",
+    "name_abbreviation": "Sovereign Camp W. O. W. v. Boden",
+    "official_citation": "1 S.W.2d 256",
+    "source_url": "https://static.case.law/sw2d/1/cases/0256-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14815
+  },
+  {
+    "opinion_id": "cap-10290404",
+    "name_abbreviation": "Southern Casualty Co. v. Flores",
+    "official_citation": "1 S.W.2d 260",
+    "source_url": "https://static.case.law/sw2d/1/cases/0260-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 17721
+  },
+  {
+    "opinion_id": "cap-10290418",
+    "name_abbreviation": "Potomac Ins. Co. v. Easley",
+    "official_citation": "1 S.W.2d 263",
+    "source_url": "https://static.case.law/sw2d/1/cases/0263-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 3790
+  },
+  {
+    "opinion_id": "cap-10290444",
+    "name_abbreviation": "Sons v. Texas Const. Co.",
+    "official_citation": "1 S.W.2d 265",
+    "source_url": "https://static.case.law/sw2d/1/cases/0265-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 18746
+  },
+  {
+    "opinion_id": "cap-10290470",
+    "name_abbreviation": "Loftus v. Beckmann",
+    "official_citation": "1 S.W.2d 268",
+    "source_url": "https://static.case.law/sw2d/1/cases/0268-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 11929
+  },
+  {
+    "opinion_id": "cap-10493666",
+    "name_abbreviation": "Chilton v. Chilton",
+    "official_citation": "252 P.2d 121",
+    "source_url": "https://static.case.law/p2d/252/cases/0121-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5530
+  },
+  {
+    "opinion_id": "cap-10493729",
+    "name_abbreviation": "Pfrimmer v. Tidwell",
+    "official_citation": "252 P.2d 123",
+    "source_url": "https://static.case.law/p2d/252/cases/0123-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 7058
+  },
+  {
+    "opinion_id": "cap-10493785",
+    "name_abbreviation": "Thomas v. Wilson",
+    "official_citation": "252 P.2d 126",
+    "source_url": "https://static.case.law/p2d/252/cases/0126-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 25599
+  },
+  {
+    "opinion_id": "cap-10493843",
+    "name_abbreviation": "Connelly v. Jennings",
+    "official_citation": "252 P.2d 133",
+    "source_url": "https://static.case.law/p2d/252/cases/0133-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 17278
+  },
+  {
+    "opinion_id": "cap-10493889",
+    "name_abbreviation": "In re Washington County Sewer Improvement Dist. No. 1",
+    "official_citation": "252 P.2d 139",
+    "source_url": "https://static.case.law/p2d/252/cases/0139-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1658
+  },
+  {
+    "opinion_id": "cap-104949",
+    "name_abbreviation": "State v. Court of Common Pleas",
+    "official_citation": "1 N.J. 14",
+    "source_url": "https://static.case.law/nj/1/cases/0014-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 13974
+  },
+  {
+    "opinion_id": "cap-104959",
+    "name_abbreviation": "Bosze v. Metropolitan Life Insurance",
+    "official_citation": "1 N.J. 5",
+    "source_url": "https://static.case.law/nj/1/cases/0005-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5756
+  },
+  {
+    "opinion_id": "cap-105051",
+    "name_abbreviation": "Sobol v. Chelsea Hotel Corp.",
+    "official_citation": "1 N.J. 13",
+    "source_url": "https://static.case.law/nj/1/cases/0013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 880
+  },
+  {
+    "opinion_id": "cap-105060",
+    "name_abbreviation": "Smith v. Hrzich",
+    "official_citation": "1 N.J. 1",
+    "source_url": "https://static.case.law/nj/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 6159
+  },
+  {
+    "opinion_id": "cap-105072",
+    "name_abbreviation": "Ames v. Sheffield Farms Co.",
+    "official_citation": "1 N.J. 11",
+    "source_url": "https://static.case.law/nj/1/cases/0011-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1439
+  },
+  {
+    "opinion_id": "cap-10507259",
+    "name_abbreviation": "Sweet Home Chapter of Communities for a Great Oregon v. Babbitt",
+    "official_citation": "1 F.3d 1",
+    "source_url": "https://static.case.law/f3d/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 48091
+  },
+  {
+    "opinion_id": "cap-10507307",
+    "name_abbreviation": "United States v. White",
+    "official_citation": "1 F.3d 13",
+    "source_url": "https://static.case.law/f3d/1/cases/0013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 20238
+  },
+  {
+    "opinion_id": "cap-10507368",
+    "name_abbreviation": "United States Department of Veterans Affairs v. Federal Labor Relations Authority",
+    "official_citation": "1 F.3d 19",
+    "source_url": "https://static.case.law/f3d/1/cases/0019-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 13228
+  },
+  {
+    "opinion_id": "cap-10507445",
+    "name_abbreviation": "United Food & Commercial Workers International Union, Local 150-A v. National Labor Relations Board",
+    "official_citation": "1 F.3d 24",
+    "source_url": "https://static.case.law/f3d/1/cases/0024-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 45341
+  },
+  {
+    "opinion_id": "cap-10507517",
+    "name_abbreviation": "TMG II v. United States",
+    "official_citation": "1 F.3d 36",
+    "source_url": "https://static.case.law/f3d/1/cases/0036-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 30606
+  },
+  {
+    "opinion_id": "cap-10687",
+    "name_abbreviation": "Erie Railroad v. Tompkins",
+    "official_citation": "304 U.S. 64",
+    "source_url": "https://static.case.law/us/304/cases/0064-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 47979
+  },
+  {
+    "opinion_id": "cap-10807625",
+    "name_abbreviation": "Zimmerman v. Kitzan",
+    "official_citation": "56 N.W.2d 208",
+    "source_url": "https://static.case.law/nw2d/56/cases/0208-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1246
+  },
+  {
+    "opinion_id": "cap-10807917",
+    "name_abbreviation": "Hultberg v. City of Garrison",
+    "official_citation": "56 N.W.2d 319",
+    "source_url": "https://static.case.law/nw2d/56/cases/0319-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 16646
+  },
+  {
+    "opinion_id": "cap-10807934",
+    "name_abbreviation": "City of Grand Forks v. Flom",
+    "official_citation": "56 N.W.2d 324",
+    "source_url": "https://static.case.law/nw2d/56/cases/0324-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 22301
+  },
+  {
+    "opinion_id": "cap-10807952",
+    "name_abbreviation": "Peterson v. Bober",
+    "official_citation": "56 N.W.2d 331",
+    "source_url": "https://static.case.law/nw2d/56/cases/0331-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 27161
+  },
+  {
+    "opinion_id": "cap-10807968",
+    "name_abbreviation": "Knudsen v. Arendt",
+    "official_citation": "56 N.W.2d 340",
+    "source_url": "https://static.case.law/nw2d/56/cases/0340-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 10778
+  },
+  {
+    "opinion_id": "cap-11073062",
+    "name_abbreviation": "State v. Nixon",
+    "official_citation": "384 N.E.2d 152",
+    "source_url": "https://static.case.law/ne2d/384/cases/0152-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 53931
+  },
+  {
+    "opinion_id": "cap-11073080",
+    "name_abbreviation": "Lovko v. Lovko",
+    "official_citation": "384 N.E.2d 166",
+    "source_url": "https://static.case.law/ne2d/384/cases/0166-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 26533
+  },
+  {
+    "opinion_id": "cap-11073936",
+    "name_abbreviation": "Cummings v. State",
+    "official_citation": "384 N.E.2d 605",
+    "source_url": "https://static.case.law/ne2d/384/cases/0605-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 8699
+  },
+  {
+    "opinion_id": "cap-11073947",
+    "name_abbreviation": "Travelers Indemnity Co. v. Armstrong",
+    "official_citation": "384 N.E.2d 607",
+    "source_url": "https://static.case.law/ne2d/384/cases/0607-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 36993
+  },
+  {
+    "opinion_id": "cap-11073954",
+    "name_abbreviation": "Carson v. State",
+    "official_citation": "384 N.E.2d 620",
+    "source_url": "https://static.case.law/ne2d/384/cases/0620-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 8285
+  },
+  {
+    "opinion_id": "cap-1123255",
+    "name_abbreviation": "United States v. Carroll Towing Co.",
+    "official_citation": "159 F.2d 169",
+    "source_url": "https://static.case.law/f2d/159/cases/0169-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 17669
+  },
+  {
+    "opinion_id": "cap-11301409",
+    "name_abbreviation": "Brown v. Board of Education",
+    "official_citation": "347 U.S. 483",
+    "source_url": "https://static.case.law/us/347/cases/0483-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 23216
+  },
+  {
+    "opinion_id": "cap-11318417",
+    "name_abbreviation": "Tinker v. Des Moines Independent Community School District",
+    "official_citation": "393 U.S. 503",
+    "source_url": "https://static.case.law/us/393/cases/0503-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 44763
+  },
+  {
+    "opinion_id": "cap-11339173",
+    "name_abbreviation": "Katz v. United States",
+    "official_citation": "389 U.S. 347",
+    "source_url": "https://static.case.law/us/389/cases/0347-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 52542
+  },
+  {
+    "opinion_id": "cap-11498267",
+    "name_abbreviation": "Kelley v. Banta & Stude Construction Co.",
+    "official_citation": "1 S.W.3d 43",
+    "source_url": "https://static.case.law/sw3d/1/cases/0043-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 27812
+  },
+  {
+    "opinion_id": "cap-11498310",
+    "name_abbreviation": "Wright v. Wright",
+    "official_citation": "1 S.W.3d 52",
+    "source_url": "https://static.case.law/sw3d/1/cases/0052-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 30482
+  },
+  {
+    "opinion_id": "cap-11498370",
+    "name_abbreviation": "State v. Bird",
+    "official_citation": "1 S.W.3d 62",
+    "source_url": "https://static.case.law/sw3d/1/cases/0062-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14523
+  },
+  {
+    "opinion_id": "cap-11498467",
+    "name_abbreviation": "Town of Collierville v. Norfolk Southern Railway Co.",
+    "official_citation": "1 S.W.3d 68",
+    "source_url": "https://static.case.law/sw3d/1/cases/0068-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 21384
+  },
+  {
+    "opinion_id": "cap-11498562",
+    "name_abbreviation": "Sipriano v. Great Spring Waters of America, Inc.",
+    "official_citation": "1 S.W.3d 75",
+    "source_url": "https://static.case.law/sw3d/1/cases/0075-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 30630
+  },
+  {
+    "opinion_id": "cap-11502573",
+    "name_abbreviation": "United Parcel Service Co. v. State, Department of Revenue",
+    "official_citation": "1 P.3d 83",
+    "source_url": "https://static.case.law/p3d/1/cases/0083-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 26351
+  },
+  {
+    "opinion_id": "cap-11502612",
+    "name_abbreviation": "DeYonge v. Nana/Marriott",
+    "official_citation": "1 P.3d 90",
+    "source_url": "https://static.case.law/p3d/1/cases/0090-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 25054
+  },
+  {
+    "opinion_id": "cap-11502646",
+    "name_abbreviation": "Alaska General Alarm, Inc. v. Grinnell",
+    "official_citation": "1 P.3d 98",
+    "source_url": "https://static.case.law/p3d/1/cases/0098-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 33337
+  },
+  {
+    "opinion_id": "cap-11502695",
+    "name_abbreviation": "Hosier v. State",
+    "official_citation": "1 P.3d 107",
+    "source_url": "https://static.case.law/p3d/1/cases/0107-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 16519
+  },
+  {
+    "opinion_id": "cap-11502784",
+    "name_abbreviation": "Department of Human Services v. May",
+    "official_citation": "1 P.3d 159",
+    "source_url": "https://static.case.law/p3d/1/cases/0159-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 59744
+  },
+  {
+    "opinion_id": "cap-11510157",
+    "name_abbreviation": "State v. Bennett",
+    "official_citation": "999 P.2d 1",
+    "source_url": "https://static.case.law/p2d/999/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 25827
+  },
+  {
+    "opinion_id": "cap-11510213",
+    "name_abbreviation": "State v. Kohl",
+    "official_citation": "999 P.2d 7",
+    "source_url": "https://static.case.law/p2d/999/cases/0007-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 32435
+  },
+  {
+    "opinion_id": "cap-11510235",
+    "name_abbreviation": "Union Pacific Railroad v. Utah State Tax Commission",
+    "official_citation": "999 P.2d 17",
+    "source_url": "https://static.case.law/p2d/999/cases/0017-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 20003
+  },
+  {
+    "opinion_id": "cap-11510265",
+    "name_abbreviation": "Munford v. Lee Servicing Co.",
+    "official_citation": "999 P.2d 23",
+    "source_url": "https://static.case.law/p2d/999/cases/0023-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 18292
+  },
+  {
+    "opinion_id": "cap-11510449",
+    "name_abbreviation": "Germany v. State",
+    "official_citation": "999 P.2d 63",
+    "source_url": "https://static.case.law/p2d/999/cases/0063-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 26639
+  },
+  {
+    "opinion_id": "cap-11580848",
+    "name_abbreviation": "Ford Motor Co. v. Cammack",
+    "official_citation": "999 S.W.2d 1",
+    "source_url": "https://static.case.law/sw2d/999/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 33186
+  },
+  {
+    "opinion_id": "cap-11580881",
+    "name_abbreviation": "Tamez v. Certain Underwriters at Lloyd's, London",
+    "official_citation": "999 S.W.2d 12",
+    "source_url": "https://static.case.law/sw2d/999/cases/0012-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 38839
+  },
+  {
+    "opinion_id": "cap-11580914",
+    "name_abbreviation": "Barfield v. State",
+    "official_citation": "999 S.W.2d 23",
+    "source_url": "https://static.case.law/sw2d/999/cases/0023-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 16514
+  },
+  {
+    "opinion_id": "cap-11580940",
+    "name_abbreviation": "Marriage of Osteen v. Osteen",
+    "official_citation": "999 S.W.2d 28",
+    "source_url": "https://static.case.law/sw2d/999/cases/0028-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 7284
+  },
+  {
+    "opinion_id": "cap-11580960",
+    "name_abbreviation": "Perez v. Todd Shipyards Corp.",
+    "official_citation": "999 S.W.2d 31",
+    "source_url": "https://static.case.law/sw2d/999/cases/0031-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12375
+  },
+  {
+    "opinion_id": "cap-11720199",
+    "name_abbreviation": "Frye v. United States",
+    "official_citation": "293 F. 1013",
+    "source_url": "https://static.case.law/f/293/cases/1013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4236
+  },
+  {
+    "opinion_id": "cap-1173611",
+    "name_abbreviation": "Lockwood v. Drake",
+    "official_citation": "1 Mich. 14",
+    "source_url": "https://static.case.law/mich/1/cases/0014-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 3256
+  },
+  {
+    "opinion_id": "cap-1173619",
+    "name_abbreviation": "Spear v. Carter",
+    "official_citation": "1 Mich. 19",
+    "source_url": "https://static.case.law/mich/1/cases/0019-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 7613
+  },
+  {
+    "opinion_id": "cap-1173642",
+    "name_abbreviation": "Dunn v. Sutliff",
+    "official_citation": "1 Mich. 24",
+    "source_url": "https://static.case.law/mich/1/cases/0024-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4188
+  },
+  {
+    "opinion_id": "cap-1173645",
+    "name_abbreviation": "Harrington v. Scott",
+    "official_citation": "1 Mich. 17",
+    "source_url": "https://static.case.law/mich/1/cases/0017-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5145
+  },
+  {
+    "opinion_id": "cap-1173667",
+    "name_abbreviation": "May v. Rumney",
+    "official_citation": "1 Mich. 1",
+    "source_url": "https://static.case.law/mich/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 28190
+  },
+  {
+    "opinion_id": "cap-11950545",
+    "name_abbreviation": "Aktiebolaget Electrolux v. Armatron International, Inc.",
+    "official_citation": "999 F.2d 1",
+    "source_url": "https://static.case.law/f2d/999/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 20109
+  },
+  {
+    "opinion_id": "cap-11950579",
+    "name_abbreviation": "United States v. De Los Santos Ferrer",
+    "official_citation": "999 F.2d 7",
+    "source_url": "https://static.case.law/f2d/999/cases/0007-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14183
+  },
+  {
+    "opinion_id": "cap-11950649",
+    "name_abbreviation": "United States v. Jordan",
+    "official_citation": "999 F.2d 11",
+    "source_url": "https://static.case.law/f2d/999/cases/0011-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 9523
+  },
+  {
+    "opinion_id": "cap-11950714",
+    "name_abbreviation": "United States v. Rowe",
+    "official_citation": "999 F.2d 14",
+    "source_url": "https://static.case.law/f2d/999/cases/0014-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14830
+  },
+  {
+    "opinion_id": "cap-11950768",
+    "name_abbreviation": "Action for Children's Television v. Federal Communications Commission",
+    "official_citation": "999 F.2d 19",
+    "source_url": "https://static.case.law/f2d/999/cases/0019-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 8957
+  },
+  {
+    "opinion_id": "cap-11978706",
+    "name_abbreviation": "In re K.C.W.",
+    "official_citation": "456 Pa. Super. 1",
+    "source_url": "https://static.case.law/pa-super/456/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 24606
+  },
+  {
+    "opinion_id": "cap-11978753",
+    "name_abbreviation": "Swartz v. Swartz",
+    "official_citation": "456 Pa. Super. 16",
+    "source_url": "https://static.case.law/pa-super/456/cases/0016-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 11902
+  },
+  {
+    "opinion_id": "cap-11978811",
+    "name_abbreviation": "Bocchicchio v. General Public Utilities Corp.",
+    "official_citation": "456 Pa. Super. 23",
+    "source_url": "https://static.case.law/pa-super/456/cases/0023-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14195
+  },
+  {
+    "opinion_id": "cap-11978863",
+    "name_abbreviation": "Law Enforcement Health Benefits, Inc. v. City of Philadelphia",
+    "official_citation": "456 Pa. Super. 31",
+    "source_url": "https://static.case.law/pa-super/456/cases/0031-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1176
+  },
+  {
+    "opinion_id": "cap-11978931",
+    "name_abbreviation": "Shanahan v. Groen",
+    "official_citation": "456 Pa. Super. 32",
+    "source_url": "https://static.case.law/pa-super/456/cases/0032-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1085
+  },
+  {
+    "opinion_id": "cap-1199416",
+    "name_abbreviation": "DeBrincat v. Mogan",
+    "official_citation": "1 Cal. App. 2d 7",
+    "source_url": "https://static.case.law/cal-app-2d/1/cases/0007-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5587
+  },
+  {
+    "opinion_id": "cap-1199425",
+    "name_abbreviation": "Losson v. Blodgett",
+    "official_citation": "1 Cal. App. 2d 13",
+    "source_url": "https://static.case.law/cal-app-2d/1/cases/0013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 9102
+  },
+  {
+    "opinion_id": "cap-1199437",
+    "name_abbreviation": "People v. Lawyer",
+    "official_citation": "1 Cal. App. 2d 1",
+    "source_url": "https://static.case.law/cal-app-2d/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 6113
+  },
+  {
+    "opinion_id": "cap-1199460",
+    "name_abbreviation": "People v. Avenell",
+    "official_citation": "1 Cal. App. 2d 11",
+    "source_url": "https://static.case.law/cal-app-2d/1/cases/0011-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2095
+  },
+  {
+    "opinion_id": "cap-1199514",
+    "name_abbreviation": "Gallucci v. San Diego Electric Railway Co.",
+    "official_citation": "1 Cal. App. 2d 5",
+    "source_url": "https://static.case.law/cal-app-2d/1/cases/0005-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 3608
+  },
+  {
+    "opinion_id": "cap-1204568",
+    "name_abbreviation": "Estate of Leonard v. Barnes",
+    "official_citation": "1 Cal. 2d 8",
+    "source_url": "https://static.case.law/cal-2d/1/cases/0008-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5506
+  },
+  {
+    "opinion_id": "cap-1204583",
+    "name_abbreviation": "People v. Murphy",
+    "official_citation": "1 Cal. 2d 37",
+    "source_url": "https://static.case.law/cal-2d/1/cases/0037-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 9122
+  },
+  {
+    "opinion_id": "cap-1204604",
+    "name_abbreviation": "Frank v. Duncan",
+    "official_citation": "1 Cal. 2d 34",
+    "source_url": "https://static.case.law/cal-2d/1/cases/0034-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 3108
+  },
+  {
+    "opinion_id": "cap-1204615",
+    "name_abbreviation": "Verder v. American Loan Society",
+    "official_citation": "1 Cal. 2d 17",
+    "source_url": "https://static.case.law/cal-2d/1/cases/0017-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 30722
+  },
+  {
+    "opinion_id": "cap-12046400",
+    "name_abbreviation": "Miranda v. Arizona",
+    "official_citation": "384 U.S. 436",
+    "source_url": "https://static.case.law/us/384/cases/0436-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 208081
+  },
+  {
+    "opinion_id": "cap-1204663",
+    "name_abbreviation": "Salomon v. Meyer",
+    "official_citation": "1 Cal. 2d 11",
+    "source_url": "https://static.case.law/cal-2d/1/cases/0011-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 11811
+  },
+  {
+    "opinion_id": "cap-12121277",
+    "name_abbreviation": "Town of Canaan v. Greenwoods Turnpike Co.",
+    "official_citation": "1 Conn. 1",
+    "source_url": "https://static.case.law/conn/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 18181
+  },
+  {
+    "opinion_id": "cap-12121318",
+    "name_abbreviation": "Sacket v. Mead",
+    "official_citation": "1 Conn. 13",
+    "source_url": "https://static.case.law/conn/1/cases/0013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 34813
+  },
+  {
+    "opinion_id": "cap-12121363",
+    "name_abbreviation": "Selleck v. French",
+    "official_citation": "1 Conn. 32",
+    "source_url": "https://static.case.law/conn/1/cases/0032-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 6571
+  },
+  {
+    "opinion_id": "cap-12121417",
+    "name_abbreviation": "Couch v. Gorham",
+    "official_citation": "1 Conn. 36",
+    "source_url": "https://static.case.law/conn/1/cases/0036-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2389
+  },
+  {
+    "opinion_id": "cap-12121486",
+    "name_abbreviation": "Grumon v. Raymond",
+    "official_citation": "1 Conn. 40",
+    "source_url": "https://static.case.law/conn/1/cases/0040-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 13849
+  },
+  {
+    "opinion_id": "cap-12121622",
+    "name_abbreviation": "Marbury v. Madison",
+    "official_citation": "5 U.S. 137",
+    "source_url": "https://static.case.law/us/5/cases/0137-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 54167
+  },
+  {
+    "opinion_id": "cap-12174037",
+    "name_abbreviation": "Murtha v. City of Hartford",
+    "official_citation": "303 Conn. 1",
+    "source_url": "https://static.case.law/conn/303/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 28787
+  },
+  {
+    "opinion_id": "cap-12174054",
+    "name_abbreviation": "State v. Maurice M.",
+    "official_citation": "303 Conn. 18",
+    "source_url": "https://static.case.law/conn/303/cases/0018-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 114099
+  },
+  {
+    "opinion_id": "cap-12174073",
+    "name_abbreviation": "State v. Rizzo",
+    "official_citation": "303 Conn. 71",
+    "source_url": "https://static.case.law/conn/303/cases/0071-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 288091
+  },
+  {
+    "opinion_id": "cap-12174097",
+    "name_abbreviation": "Bridgeport Harbour Place I, LLC v. Ganim",
+    "official_citation": "303 Conn. 205",
+    "source_url": "https://static.case.law/conn/303/cases/0205-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 35209
+  },
+  {
+    "opinion_id": "cap-12174114",
+    "name_abbreviation": "RMS Residential Properties, LLC v. Miller",
+    "official_citation": "303 Conn. 224",
+    "source_url": "https://static.case.law/conn/303/cases/0224-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 25704
+  },
+  {
+    "opinion_id": "cap-12278105",
+    "name_abbreviation": "Southeastern Pennsylvania Transportation Authority v. City of Philadelphia",
+    "official_citation": "639 Pa. 1",
+    "source_url": "https://static.case.law/pa/639/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 84082
+  },
+  {
+    "opinion_id": "cap-12278111",
+    "name_abbreviation": "Pittman v. Pennsylvania Board of Probation & Parole",
+    "official_citation": "639 Pa. 40",
+    "source_url": "https://static.case.law/pa/639/cases/0040-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 38156
+  },
+  {
+    "opinion_id": "cap-12278115",
+    "name_abbreviation": "Villani v. Seibert",
+    "official_citation": "639 Pa. 58",
+    "source_url": "https://static.case.law/pa/639/cases/0058-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 90039
+  },
+  {
+    "opinion_id": "cap-12278119",
+    "name_abbreviation": "Commonwealth v. Yandamuri",
+    "official_citation": "639 Pa. 100",
+    "source_url": "https://static.case.law/pa/639/cases/0100-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 85874
+  },
+  {
+    "opinion_id": "cap-12278126",
+    "name_abbreviation": "Commonwealth v. Hamlette",
+    "official_citation": "639 Pa. 145",
+    "source_url": "https://static.case.law/pa/639/cases/0145-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 105
+  },
+  {
+    "opinion_id": "cap-12302023",
+    "name_abbreviation": "Pace v. Edel-Harrelson",
+    "official_citation": "499 Mich. 1",
+    "source_url": "https://static.case.law/mich/499/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 15839
+  },
+  {
+    "opinion_id": "cap-12302078",
+    "name_abbreviation": "Elher v. Misra",
+    "official_citation": "499 Mich. 11",
+    "source_url": "https://static.case.law/mich/499/cases/0011-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 25615
+  },
+  {
+    "opinion_id": "cap-12302135",
+    "name_abbreviation": "Jesperson v. Auto Club Insurance Ass'n",
+    "official_citation": "499 Mich. 29",
+    "source_url": "https://static.case.law/mich/499/cases/0029-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14632
+  },
+  {
+    "opinion_id": "cap-12302165",
+    "name_abbreviation": "Beck v. Park West Galleries, Inc.",
+    "official_citation": "499 Mich. 40",
+    "source_url": "https://static.case.law/mich/499/cases/0040-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 18224
+  },
+  {
+    "opinion_id": "cap-12302192",
+    "name_abbreviation": "People v. Triplett",
+    "official_citation": "499 Mich. 52",
+    "source_url": "https://static.case.law/mich/499/cases/0052-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 11549
+  },
+  {
+    "opinion_id": "cap-12314683",
+    "name_abbreviation": "Castruccio v. Estate of Castruccio",
+    "official_citation": "456 Md. 1",
+    "source_url": "https://static.case.law/md/456/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 70459
+  },
+  {
+    "opinion_id": "cap-12314702",
+    "name_abbreviation": "Attorney Grievance Commission v. Butler",
+    "official_citation": "456 Md. 43",
+    "source_url": "https://static.case.law/md/456/cases/0043-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 894
+  },
+  {
+    "opinion_id": "cap-12314711",
+    "name_abbreviation": "Attorney Grievance Commission v. Morris",
+    "official_citation": "456 Md. 44",
+    "source_url": "https://static.case.law/md/456/cases/0044-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 990
+  },
+  {
+    "opinion_id": "cap-12314715",
+    "name_abbreviation": "Attorney Grievance Commission v. Brown",
+    "official_citation": "456 Md. 45",
+    "source_url": "https://static.case.law/md/456/cases/0045-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 448
+  },
+  {
+    "opinion_id": "cap-12314721",
+    "name_abbreviation": "Attorney Grievance Commission v. McLaughlin",
+    "official_citation": "456 Md. 45",
+    "source_url": "https://static.case.law/md/456/cases/0045-02.json",
+    "retrieved": "2026-09-02",
+    "text_len": 923
+  },
+  {
+    "opinion_id": "cap-12451883",
+    "name_abbreviation": "Commonwealth v. Colton",
+    "official_citation": "477 Mass. 1",
+    "source_url": "https://static.case.law/mass/477/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 42693
+  },
+  {
+    "opinion_id": "cap-12451884",
+    "name_abbreviation": "Commonwealth v. Fulgiam",
+    "official_citation": "477 Mass. 20",
+    "source_url": "https://static.case.law/mass/477/cases/0020-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 70259
+  },
+  {
+    "opinion_id": "cap-12451885",
+    "name_abbreviation": "Commonwealth v. Leslie",
+    "official_citation": "477 Mass. 48",
+    "source_url": "https://static.case.law/mass/477/cases/0048-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 26068
+  },
+  {
+    "opinion_id": "cap-12451886",
+    "name_abbreviation": "Commonwealth v. Garvey",
+    "official_citation": "477 Mass. 59",
+    "source_url": "https://static.case.law/mass/477/cases/0059-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 24100
+  },
+  {
+    "opinion_id": "cap-12451887",
+    "name_abbreviation": "Commonwealth v. Rosario",
+    "official_citation": "477 Mass. 69",
+    "source_url": "https://static.case.law/mass/477/cases/0069-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 31053
+  },
+  {
+    "opinion_id": "cap-12452125",
+    "name_abbreviation": "Bell v. Heflin",
+    "official_citation": "187 Wash. 2d 1",
+    "source_url": "https://static.case.law/wash-2d/187/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 19920
+  },
+  {
+    "opinion_id": "cap-12452126",
+    "name_abbreviation": "State v. Albarran",
+    "official_citation": "187 Wash. 2d 15",
+    "source_url": "https://static.case.law/wash-2d/187/cases/0015-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 19236
+  },
+  {
+    "opinion_id": "cap-12452127",
+    "name_abbreviation": "Fast v. Kennewick Public Hospital District",
+    "official_citation": "187 Wash. 2d 27",
+    "source_url": "https://static.case.law/wash-2d/187/cases/0027-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 29052
+  },
+  {
+    "opinion_id": "cap-12452128",
+    "name_abbreviation": "Avnet, Inc. v. Department of Revenue",
+    "official_citation": "187 Wash. 2d 44",
+    "source_url": "https://static.case.law/wash-2d/187/cases/0044-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 78676
+  },
+  {
+    "opinion_id": "cap-12452129",
+    "name_abbreviation": "State v. Case",
+    "official_citation": "187 Wash. 2d 85",
+    "source_url": "https://static.case.law/wash-2d/187/cases/0085-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 38205
+  },
+  {
+    "opinion_id": "cap-12456500",
+    "name_abbreviation": "In re Fincourt Braxton Shelton",
+    "official_citation": "302 Ga. 1",
+    "source_url": "https://static.case.law/ga/302/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5423
+  },
+  {
+    "opinion_id": "cap-12456501",
+    "name_abbreviation": "In re Gantt",
+    "official_citation": "302 Ga. 3",
+    "source_url": "https://static.case.law/ga/302/cases/0003-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5710
+  },
+  {
+    "opinion_id": "cap-12456502",
+    "name_abbreviation": "In re Galette",
+    "official_citation": "302 Ga. 5",
+    "source_url": "https://static.case.law/ga/302/cases/0005-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2693
+  },
+  {
+    "opinion_id": "cap-12456503",
+    "name_abbreviation": "Brewner v. State",
+    "official_citation": "302 Ga. 6",
+    "source_url": "https://static.case.law/ga/302/cases/0006-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 30597
+  },
+  {
+    "opinion_id": "cap-12456504",
+    "name_abbreviation": "McConnell v. Department of Labor",
+    "official_citation": "302 Ga. 18",
+    "source_url": "https://static.case.law/ga/302/cases/0018-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 3728
+  },
+  {
+    "opinion_id": "cap-12460492",
+    "name_abbreviation": "In re Nazmiyal",
+    "official_citation": "231 N.J. 1",
+    "source_url": "https://static.case.law/nj/231/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2531
+  },
+  {
+    "opinion_id": "cap-12460493",
+    "name_abbreviation": "In re Salzman",
+    "official_citation": "231 N.J. 2",
+    "source_url": "https://static.case.law/nj/231/cases/0002-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 3487
+  },
+  {
+    "opinion_id": "cap-12460494",
+    "name_abbreviation": "In re Oxfeld",
+    "official_citation": "231 N.J. 5",
+    "source_url": "https://static.case.law/nj/231/cases/0005-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1727
+  },
+  {
+    "opinion_id": "cap-12460495",
+    "name_abbreviation": "In re Van Siclen",
+    "official_citation": "231 N.J. 6",
+    "source_url": "https://static.case.law/nj/231/cases/0006-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1964
+  },
+  {
+    "opinion_id": "cap-12460496",
+    "name_abbreviation": "In re Kaigh",
+    "official_citation": "231 N.J. 7",
+    "source_url": "https://static.case.law/nj/231/cases/0007-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 960
+  },
+  {
+    "opinion_id": "cap-12511218",
+    "name_abbreviation": "Dechellis v. Dechellis",
+    "official_citation": "213 A.3d 1",
+    "source_url": "https://static.case.law/a3d/213/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 34973
+  },
+  {
+    "opinion_id": "cap-12511234",
+    "name_abbreviation": "In re Anaishaly C.",
+    "official_citation": "213 A.3d 12",
+    "source_url": "https://static.case.law/a3d/213/cases/0012-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 51976
+  },
+  {
+    "opinion_id": "cap-12511326",
+    "name_abbreviation": "Almeida v. Almeida",
+    "official_citation": "213 A.3d 28",
+    "source_url": "https://static.case.law/a3d/213/cases/0028-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 24514
+  },
+  {
+    "opinion_id": "cap-12522471",
+    "name_abbreviation": "Conille v. Council 93, Am. Fed'n of State, Cnty & Mun. Emp.",
+    "official_citation": "935 F.3d 1",
+    "source_url": "https://static.case.law/f3d/935/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 25443
+  },
+  {
+    "opinion_id": "cap-12522503",
+    "name_abbreviation": "Menaker v. Hofstra Univ.",
+    "official_citation": "935 F.3d 20",
+    "source_url": "https://static.case.law/f3d/935/cases/0020-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 49510
+  },
+  {
+    "opinion_id": "cap-12522521",
+    "name_abbreviation": "United States v. Ryan",
+    "official_citation": "935 F.3d 40",
+    "source_url": "https://static.case.law/f3d/935/cases/0040-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 8455
+  },
+  {
+    "opinion_id": "cap-12522525",
+    "name_abbreviation": "United States v. Brown",
+    "official_citation": "935 F.3d 43",
+    "source_url": "https://static.case.law/f3d/935/cases/0043-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 17232
+  },
+  {
+    "opinion_id": "cap-12522578",
+    "name_abbreviation": "Parker v. Landry",
+    "official_citation": "935 F.3d 9",
+    "source_url": "https://static.case.law/f3d/935/cases/0009-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 28404
+  },
+  {
+    "opinion_id": "cap-12532559",
+    "name_abbreviation": "Chacoty v. Pompeo",
+    "official_citation": "392 F. Supp. 3d 1",
+    "source_url": "https://static.case.law/f-supp-3d/392/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 73987
+  },
+  {
+    "opinion_id": "cap-12532560",
+    "name_abbreviation": "Am. Ctr. for Law & Justice v. U.S. Dep't of Justice",
+    "official_citation": "392 F. Supp. 3d 100",
+    "source_url": "https://static.case.law/f-supp-3d/392/cases/0100-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 19039
+  },
+  {
+    "opinion_id": "cap-12532592",
+    "name_abbreviation": "Ass'n for Cmty. Affiliated Plans v. U.S. Dep't of Treasury",
+    "official_citation": "392 F. Supp. 3d 22",
+    "source_url": "https://static.case.law/f-supp-3d/392/cases/0022-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 74602
+  },
+  {
+    "opinion_id": "cap-12532612",
+    "name_abbreviation": "Al-Baluchi v. Esper",
+    "official_citation": "392 F. Supp. 3d 46",
+    "source_url": "https://static.case.law/f-supp-3d/392/cases/0046-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 58735
+  },
+  {
+    "opinion_id": "cap-12532629",
+    "name_abbreviation": "Green v. U.S. Dep't of Justice",
+    "official_citation": "392 F. Supp. 3d 68",
+    "source_url": "https://static.case.law/f-supp-3d/392/cases/0068-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 88596
+  },
+  {
+    "opinion_id": "cap-12564278",
+    "name_abbreviation": "People v. McKay",
+    "official_citation": "932 N.W.2d 1",
+    "source_url": "https://static.case.law/nw2d/932/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 159
+  },
+  {
+    "opinion_id": "cap-12564279",
+    "name_abbreviation": "Rafaeli, LLC v. Oakland Cnty.",
+    "official_citation": "932 N.W.2d 1",
+    "source_url": "https://static.case.law/nw2d/932/cases/0001-02.json",
+    "retrieved": "2026-09-02",
+    "text_len": 244
+  },
+  {
+    "opinion_id": "cap-12564280",
+    "name_abbreviation": "Meemic Ins. Co. v. Fortson",
+    "official_citation": "932 N.W.2d 1",
+    "source_url": "https://static.case.law/nw2d/932/cases/0001-03.json",
+    "retrieved": "2026-09-02",
+    "text_len": 236
+  },
+  {
+    "opinion_id": "cap-12564352",
+    "name_abbreviation": "People v. Jemison",
+    "official_citation": "932 N.W.2d 2",
+    "source_url": "https://static.case.law/nw2d/932/cases/0002-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 185
+  },
+  {
+    "opinion_id": "cap-12564353",
+    "name_abbreviation": "Jawad A. Shah, M.D., PC v. State Farm Mut. Auto. Ins. Co.",
+    "official_citation": "932 N.W.2d 2",
+    "source_url": "https://static.case.law/nw2d/932/cases/0002-02.json",
+    "retrieved": "2026-09-02",
+    "text_len": 272
+  },
+  {
+    "opinion_id": "cap-12577569",
+    "name_abbreviation": "State v. Savath",
+    "official_citation": "447 P.3d 1",
+    "source_url": "https://static.case.law/p3d/447/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 20247
+  },
+  {
+    "opinion_id": "cap-12577707",
+    "name_abbreviation": "Bethlehem Constr., Inc. v. Portland Gen. Elec. Co.",
+    "official_citation": "447 P.3d 18",
+    "source_url": "https://static.case.law/p3d/447/cases/0018-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 15174
+  },
+  {
+    "opinion_id": "cap-12577714",
+    "name_abbreviation": "State v. Evensen",
+    "official_citation": "447 P.3d 23",
+    "source_url": "https://static.case.law/p3d/447/cases/0023-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 49866
+  },
+  {
+    "opinion_id": "cap-12577720",
+    "name_abbreviation": "Boatfield v. Boatfield",
+    "official_citation": "447 P.3d 35",
+    "source_url": "https://static.case.law/p3d/447/cases/0035-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 16337
+  },
+  {
+    "opinion_id": "cap-12577817",
+    "name_abbreviation": "State v. Curry",
+    "official_citation": "447 P.3d 7",
+    "source_url": "https://static.case.law/p3d/447/cases/0007-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 40282
+  },
+  {
+    "opinion_id": "cap-12631075",
+    "name_abbreviation": "Southern Fire & Cas. Co. v. KIRBY'S GARAGE",
+    "official_citation": "590 S.E.2d 1",
+    "source_url": "https://static.case.law/se2d/590/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 10834
+  },
+  {
+    "opinion_id": "cap-12631077",
+    "name_abbreviation": "Mauldin v. BOP",
+    "official_citation": "590 S.E.2d 269",
+    "source_url": "https://static.case.law/se2d/590/cases/0269-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 330
+  },
+  {
+    "opinion_id": "cap-12631078",
+    "name_abbreviation": "State v. Cheek",
+    "official_citation": "590 S.E.2d 272",
+    "source_url": "https://static.case.law/se2d/590/cases/0272-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 665
+  },
+  {
+    "opinion_id": "cap-12631079",
+    "name_abbreviation": "Rose v. LAKE NORMAN PEDIATRICS, PA",
+    "official_citation": "590 S.E.2d 288",
+    "source_url": "https://static.case.law/se2d/590/cases/0288-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 19900
+  },
+  {
+    "opinion_id": "cap-12655202",
+    "name_abbreviation": "Mays v. State",
+    "official_citation": "831 S.E.2d 1",
+    "source_url": "https://static.case.law/se2d/831/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 11585
+  },
+  {
+    "opinion_id": "cap-12655205",
+    "name_abbreviation": "Chambers v. State",
+    "official_citation": "831 S.E.2d 11",
+    "source_url": "https://static.case.law/se2d/831/cases/0011-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12725
+  },
+  {
+    "opinion_id": "cap-12655228",
+    "name_abbreviation": "State v. Terrell",
+    "official_citation": "831 S.E.2d 17",
+    "source_url": "https://static.case.law/se2d/831/cases/0017-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 82971
+  },
+  {
+    "opinion_id": "cap-12655263",
+    "name_abbreviation": "State v. Lewis",
+    "official_citation": "831 S.E.2d 37",
+    "source_url": "https://static.case.law/se2d/831/cases/0037-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 45198
+  },
+  {
+    "opinion_id": "cap-12655267",
+    "name_abbreviation": "State v. Duncan",
+    "official_citation": "831 S.E.2d 4",
+    "source_url": "https://static.case.law/se2d/831/cases/0004-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 25838
+  },
+  {
+    "opinion_id": "cap-12660358",
+    "name_abbreviation": "Freeman v. Freeman",
+    "official_citation": "579 S.W.3d 1",
+    "source_url": "https://static.case.law/sw3d/579/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 19756
+  },
+  {
+    "opinion_id": "cap-12660391",
+    "name_abbreviation": "Innerimages, Inc. v. Newman",
+    "official_citation": "579 S.W.3d 29",
+    "source_url": "https://static.case.law/sw3d/579/cases/0029-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 66019
+  },
+  {
+    "opinion_id": "cap-12660419",
+    "name_abbreviation": "Silguero v. CSL Plasma, Inc.",
+    "official_citation": "579 S.W.3d 53",
+    "source_url": "https://static.case.law/sw3d/579/cases/0053-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 69549
+  },
+  {
+    "opinion_id": "cap-12660435",
+    "name_abbreviation": "Barnett v. Schiro",
+    "official_citation": "579 S.W.3d 73",
+    "source_url": "https://static.case.law/sw3d/579/cases/0073-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2225
+  },
+  {
+    "opinion_id": "cap-12660446",
+    "name_abbreviation": "Tolliver v. Tellico Vill. Prop. Owners Ass'n, Inc.",
+    "official_citation": "579 S.W.3d 8",
+    "source_url": "https://static.case.law/sw3d/579/cases/0008-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 61174
+  },
+  {
+    "opinion_id": "cap-1269288",
+    "name_abbreviation": "United States v. Microsoft Corp.",
+    "official_citation": "253 F.3d 34",
+    "source_url": "https://static.case.law/f3d/253/cases/0034-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 268718
+  },
+  {
+    "opinion_id": "cap-12704826",
+    "name_abbreviation": "Lozano v. Montoya Alvarez",
+    "official_citation": "572 U.S. 1",
+    "source_url": "https://static.case.law/us/572/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 42074
+  },
+  {
+    "opinion_id": "cap-12706985",
+    "name_abbreviation": "Lexmark Int'l, Inc. v. Static Control Components, Inc.",
+    "official_citation": "572 U.S. 118",
+    "source_url": "https://static.case.law/us/572/cases/0118-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 43146
+  },
+  {
+    "opinion_id": "cap-12706990",
+    "name_abbreviation": "BG Group, PLC v. Republic of Argentina",
+    "official_citation": "572 U.S. 25",
+    "source_url": "https://static.case.law/us/572/cases/0025-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 75769
+  },
+  {
+    "opinion_id": "cap-12707001",
+    "name_abbreviation": "Rosemond v. United States",
+    "official_citation": "572 U.S. 65",
+    "source_url": "https://static.case.law/us/572/cases/0065-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 53852
+  },
+  {
+    "opinion_id": "cap-12707012",
+    "name_abbreviation": "Marvin M. Brandt Revocable Trust v. United States",
+    "official_citation": "572 U.S. 93",
+    "source_url": "https://static.case.law/us/572/cases/0093-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 45670
+  },
+  {
+    "opinion_id": "cap-1282066",
+    "name_abbreviation": "United States ex rel. Long v. SCS Business & Technical Institute",
+    "official_citation": "999 F. Supp. 78",
+    "source_url": "https://static.case.law/f-supp/999/cases/0078-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 69311
+  },
+  {
+    "opinion_id": "cap-1282078",
+    "name_abbreviation": "Piedmont Resolution, L.L.C. v. Johnston",
+    "official_citation": "999 F. Supp. 34",
+    "source_url": "https://static.case.law/f-supp/999/cases/0034-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 89488
+  },
+  {
+    "opinion_id": "cap-1282081",
+    "name_abbreviation": "United Parcel Service, Inc. v. International Brotherhood of Teamsters",
+    "official_citation": "999 F. Supp. 70",
+    "source_url": "https://static.case.law/f-supp/999/cases/0070-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 28586
+  },
+  {
+    "opinion_id": "cap-1282096",
+    "name_abbreviation": "Horsehead Industries, Inc. v. United States Environmental Protection Agency",
+    "official_citation": "999 F. Supp. 59",
+    "source_url": "https://static.case.law/f-supp/999/cases/0059-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 37176
+  },
+  {
+    "opinion_id": "cap-1282167",
+    "name_abbreviation": "Flatow v. Islamic Republic",
+    "official_citation": "999 F. Supp. 1",
+    "source_url": "https://static.case.law/f-supp/999/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 122688
+  },
+  {
+    "opinion_id": "cap-1284330",
+    "name_abbreviation": "Patmore v. United States",
+    "official_citation": "1 F.2d 8",
+    "source_url": "https://static.case.law/f2d/1/cases/0008-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 11757
+  },
+  {
+    "opinion_id": "cap-1284702",
+    "name_abbreviation": "Rahilly v. O'Laughlin",
+    "official_citation": "1 F.2d 1",
+    "source_url": "https://static.case.law/f2d/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 19670
+  },
+  {
+    "opinion_id": "cap-1284722",
+    "name_abbreviation": "White v. Peerless Motor Car Co.",
+    "official_citation": "1 F.2d 10",
+    "source_url": "https://static.case.law/f2d/1/cases/0010-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5814
+  },
+  {
+    "opinion_id": "cap-1284783",
+    "name_abbreviation": "In re McLauchlan",
+    "official_citation": "1 F.2d 5",
+    "source_url": "https://static.case.law/f2d/1/cases/0005-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 8684
+  },
+  {
+    "opinion_id": "cap-1284811",
+    "name_abbreviation": "Egry Register Co. v. Standard Register Co.",
+    "official_citation": "1 F.2d 11",
+    "source_url": "https://static.case.law/f2d/1/cases/0011-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 6271
+  },
+  {
+    "opinion_id": "cap-1373679",
+    "name_abbreviation": "Moore v. Ferrell",
+    "official_citation": "1 Ga. 6",
+    "source_url": "https://static.case.law/ga/1/cases/0006-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2262
+  },
+  {
+    "opinion_id": "cap-1373744",
+    "name_abbreviation": "Rogers v. Atkinson",
+    "official_citation": "1 Ga. 12",
+    "source_url": "https://static.case.law/ga/1/cases/0012-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 35405
+  },
+  {
+    "opinion_id": "cap-1373752",
+    "name_abbreviation": "Doe ex dem. Truluck v. Peeples",
+    "official_citation": "1 Ga. 1",
+    "source_url": "https://static.case.law/ga/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 3795
+  },
+  {
+    "opinion_id": "cap-1373783",
+    "name_abbreviation": "Doe ex dem. Truluck v. Roe",
+    "official_citation": "1 Ga. 3",
+    "source_url": "https://static.case.law/ga/1/cases/0003-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2892
+  },
+  {
+    "opinion_id": "cap-1373840",
+    "name_abbreviation": "Moore v. Ferrell",
+    "official_citation": "1 Ga. 7",
+    "source_url": "https://static.case.law/ga/1/cases/0007-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 15728
+  },
+  {
+    "opinion_id": "cap-1408365",
+    "name_abbreviation": "Bethel v. Lloyd",
+    "official_citation": "1 U.S. 2",
+    "source_url": "https://static.case.law/us/1/cases/0003-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 254
+  },
+  {
+    "opinion_id": "cap-1408376",
+    "name_abbreviation": "Anonymous",
+    "official_citation": "1 U.S. 1",
+    "source_url": "https://static.case.law/us/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4273
+  },
+  {
+    "opinion_id": "cap-1408451",
+    "name_abbreviation": "Lessee of Lewis v. Stammers",
+    "official_citation": "1 U.S. 2",
+    "source_url": "https://static.case.law/us/1/cases/0003-02.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1728
+  },
+  {
+    "opinion_id": "cap-1408456",
+    "name_abbreviation": "Stevenson v. Pemberton",
+    "official_citation": "1 U.S. 3",
+    "source_url": "https://static.case.law/us/1/cases/0004-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 640
+  },
+  {
+    "opinion_id": "cap-1408537",
+    "name_abbreviation": "Lessee of Hyam v. Edwards",
+    "official_citation": "1 U.S. 1",
+    "source_url": "https://static.case.law/us/1/cases/0002-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 886
+  },
+  {
+    "opinion_id": "cap-1421263",
+    "name_abbreviation": "Gibbons v. Ogden",
+    "official_citation": "22 U.S. 1",
+    "source_url": "https://static.case.law/us/22/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 86302
+  },
+  {
+    "opinion_id": "cap-1575160",
+    "name_abbreviation": "McCreary v. Offner",
+    "official_citation": "1 F. Supp. 2d 32",
+    "source_url": "https://static.case.law/f-supp-2d/1/cases/0032-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 20695
+  },
+  {
+    "opinion_id": "cap-1575193",
+    "name_abbreviation": "Pfizer Inc. v. Shalala",
+    "official_citation": "1 F. Supp. 2d 38",
+    "source_url": "https://static.case.law/f-supp-2d/1/cases/0038-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 39479
+  },
+  {
+    "opinion_id": "cap-1575203",
+    "name_abbreviation": "Biddulph v. Callahan",
+    "official_citation": "1 F. Supp. 2d 12",
+    "source_url": "https://static.case.law/f-supp-2d/1/cases/0012-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 43412
+  },
+  {
+    "opinion_id": "cap-1575283",
+    "name_abbreviation": "Lucero-Nelson v. Washington Metropolitan Area Transit Authority",
+    "official_citation": "1 F. Supp. 2d 1",
+    "source_url": "https://static.case.law/f-supp-2d/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 41677
+  },
+  {
+    "opinion_id": "cap-1575294",
+    "name_abbreviation": "American Council of Life Insurance v. Ludwig",
+    "official_citation": "1 F. Supp. 2d 24",
+    "source_url": "https://static.case.law/f-supp-2d/1/cases/0024-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 27429
+  },
+  {
+    "opinion_id": "cap-1688775",
+    "name_abbreviation": "Milburn v. State",
+    "official_citation": "1 Md. 1",
+    "source_url": "https://static.case.law/md/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 35550
+  },
+  {
+    "opinion_id": "cap-1688776",
+    "name_abbreviation": "Mitchell's Lessee v. Mitchell",
+    "official_citation": "1 Md. 44",
+    "source_url": "https://static.case.law/md/1/cases/0044-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 10306
+  },
+  {
+    "opinion_id": "cap-1688851",
+    "name_abbreviation": "Key's Lessee v. Davis",
+    "official_citation": "1 Md. 32",
+    "source_url": "https://static.case.law/md/1/cases/0032-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 15480
+  },
+  {
+    "opinion_id": "cap-1688868",
+    "name_abbreviation": "Mitchell v. Mitchell",
+    "official_citation": "1 Md. 55",
+    "source_url": "https://static.case.law/md/1/cases/0055-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2619
+  },
+  {
+    "opinion_id": "cap-1688905",
+    "name_abbreviation": "Crane v. State",
+    "official_citation": "1 Md. 27",
+    "source_url": "https://static.case.law/md/1/cases/0027-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5646
+  },
+  {
+    "opinion_id": "cap-1765333",
+    "name_abbreviation": "Gideon v. Wainwright",
+    "official_citation": "372 U.S. 335",
+    "source_url": "https://static.case.law/us/372/cases/0335-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 30429
+  },
+  {
+    "opinion_id": "cap-1771221",
+    "name_abbreviation": "Witherspoon v. Belt",
+    "official_citation": "177 Ohio St. 1",
+    "source_url": "https://static.case.law/ohio-st/177/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 3470
+  },
+  {
+    "opinion_id": "cap-1771247",
+    "name_abbreviation": "Troxell v. Maxwell",
+    "official_citation": "177 Ohio St. 8",
+    "source_url": "https://static.case.law/ohio-st/177/cases/0008-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5313
+  },
+  {
+    "opinion_id": "cap-1771311",
+    "name_abbreviation": "State ex rel. Moorehead v. Reed",
+    "official_citation": "177 Ohio St. 4",
+    "source_url": "https://static.case.law/ohio-st/177/cases/0004-02.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5551
+  },
+  {
+    "opinion_id": "cap-1771581",
+    "name_abbreviation": "Brandenburg v. Ohio",
+    "official_citation": "395 U.S. 444",
+    "source_url": "https://static.case.law/us/395/cases/0444-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 22435
+  },
+  {
+    "opinion_id": "cap-1785580",
+    "name_abbreviation": "Mapp v. Ohio",
+    "official_citation": "367 U.S. 643",
+    "source_url": "https://static.case.law/us/367/cases/0643-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 83780
+  },
+  {
+    "opinion_id": "cap-1905144",
+    "name_abbreviation": "Palsgraf v. Long Island Railroad",
+    "official_citation": "248 N.Y. 339",
+    "source_url": "https://static.case.law/ny/248/cases/0339-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 31844
+  },
+  {
+    "opinion_id": "cap-1963351",
+    "name_abbreviation": "Harmon v. Gould",
+    "official_citation": "1 Wash. 2d 1",
+    "source_url": "https://static.case.law/wash-2d/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 19556
+  },
+  {
+    "opinion_id": "cap-1963361",
+    "name_abbreviation": "Bush v. Quinault School District No. 97",
+    "official_citation": "1 Wash. 2d 28",
+    "source_url": "https://static.case.law/wash-2d/1/cases/0028-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14916
+  },
+  {
+    "opinion_id": "cap-1963385",
+    "name_abbreviation": "Murdoch v. Leonard",
+    "official_citation": "1 Wash. 2d 37",
+    "source_url": "https://static.case.law/wash-2d/1/cases/0037-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4892
+  },
+  {
+    "opinion_id": "cap-1963407",
+    "name_abbreviation": "Draper v. Aetna Life Insurance",
+    "official_citation": "1 Wash. 2d 17",
+    "source_url": "https://static.case.law/wash-2d/1/cases/0017-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 17010
+  },
+  {
+    "opinion_id": "cap-1963409",
+    "name_abbreviation": "State ex rel. Brisbin v. Frater",
+    "official_citation": "1 Wash. 2d 13",
+    "source_url": "https://static.case.law/wash-2d/1/cases/0013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4740
+  },
+  {
+    "opinion_id": "cap-1982889",
+    "name_abbreviation": "Harrell v. Bishop",
+    "official_citation": "160 Fla. 3",
+    "source_url": "https://static.case.law/fla/160/cases/0003-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 7578
+  },
+  {
+    "opinion_id": "cap-1982922",
+    "name_abbreviation": "Brower v. Putnam County",
+    "official_citation": "160 Fla. 17",
+    "source_url": "https://static.case.law/fla/160/cases/0017-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5905
+  },
+  {
+    "opinion_id": "cap-1983009",
+    "name_abbreviation": "Beck v. Game & Fresh Water Fish Commission",
+    "official_citation": "160 Fla. 1",
+    "source_url": "https://static.case.law/fla/160/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2817
+  },
+  {
+    "opinion_id": "cap-1983068",
+    "name_abbreviation": "DeSalvo v. Curry",
+    "official_citation": "160 Fla. 7",
+    "source_url": "https://static.case.law/fla/160/cases/0007-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 10541
+  },
+  {
+    "opinion_id": "cap-1983121",
+    "name_abbreviation": "State v. City of Daytona Beach",
+    "official_citation": "160 Fla. 13",
+    "source_url": "https://static.case.law/fla/160/cases/0013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 7163
+  },
+  {
+    "opinion_id": "cap-2241534",
+    "name_abbreviation": "Gurtler v. Union Parts Manufacturing Co.",
+    "official_citation": "1 N.Y.2d 5",
+    "source_url": "https://static.case.law/ny-2d/1/cases/0005-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1298
+  },
+  {
+    "opinion_id": "cap-2241563",
+    "name_abbreviation": "Weil v. Atlantic Beach Holding Corp.",
+    "official_citation": "1 N.Y.2d 20",
+    "source_url": "https://static.case.law/ny-2d/1/cases/0020-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12235
+  },
+  {
+    "opinion_id": "cap-2241584",
+    "name_abbreviation": "First Terrace Gardens, Inc., v. McGoldrick",
+    "official_citation": "1 N.Y.2d 1",
+    "source_url": "https://static.case.law/ny-2d/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4483
+  },
+  {
+    "opinion_id": "cap-2241587",
+    "name_abbreviation": "Cahen v. Boyland",
+    "official_citation": "1 N.Y.2d 8",
+    "source_url": "https://static.case.law/ny-2d/1/cases/0008-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 9397
+  },
+  {
+    "opinion_id": "cap-2241650",
+    "name_abbreviation": "Kline v. Pane",
+    "official_citation": "1 N.Y.2d 15",
+    "source_url": "https://static.case.law/ny-2d/1/cases/0015-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 6074
+  },
+  {
+    "opinion_id": "cap-2263613",
+    "name_abbreviation": "Key Western Life Insurance v. State Board of Insurance",
+    "official_citation": "163 Tex. 11",
+    "source_url": "https://static.case.law/tex/163/cases/0011-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 47650
+  },
+  {
+    "opinion_id": "cap-2263615",
+    "name_abbreviation": "Ex parte Rhodes",
+    "official_citation": "163 Tex. 31",
+    "source_url": "https://static.case.law/tex/163/cases/0031-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 10037
+  },
+  {
+    "opinion_id": "cap-2263616",
+    "name_abbreviation": "Republic National Bank v. Strealy",
+    "official_citation": "163 Tex. 36",
+    "source_url": "https://static.case.law/tex/163/cases/0036-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 28431
+  },
+  {
+    "opinion_id": "cap-2263643",
+    "name_abbreviation": "Cook v. Neill",
+    "official_citation": "163 Tex. 49",
+    "source_url": "https://static.case.law/tex/163/cases/0049-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 31064
+  },
+  {
+    "opinion_id": "cap-2263654",
+    "name_abbreviation": "Pan American Insurance v. Hi-Plains Haulers, Inc.",
+    "official_citation": "163 Tex. 1",
+    "source_url": "https://static.case.law/tex/163/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 22514
+  },
+  {
+    "opinion_id": "cap-268376",
+    "name_abbreviation": "Kraemer v. Guarantee Trust & Safe Deposit Co.",
+    "official_citation": "1 Pa. Super. 4",
+    "source_url": "https://static.case.law/pa-super/1/cases/0004-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 7039
+  },
+  {
+    "opinion_id": "cap-268451",
+    "name_abbreviation": "Benevolent Order of Active Workers ex rel. Binns v. Smith",
+    "official_citation": "1 Pa. Super. 1",
+    "source_url": "https://static.case.law/pa-super/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5030
+  },
+  {
+    "opinion_id": "cap-268477",
+    "name_abbreviation": "Morgan v. Wolstencroft",
+    "official_citation": "1 Pa. Super. 13",
+    "source_url": "https://static.case.law/pa-super/1/cases/0013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1955
+  },
+  {
+    "opinion_id": "cap-268529",
+    "name_abbreviation": "Lancaster v. Barrett",
+    "official_citation": "1 Pa. Super. 9",
+    "source_url": "https://static.case.law/pa-super/1/cases/0009-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4828
+  },
+  {
+    "opinion_id": "cap-268563",
+    "name_abbreviation": "Skiles v. Sides",
+    "official_citation": "1 Pa. Super. 15",
+    "source_url": "https://static.case.law/pa-super/1/cases/0015-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 9856
+  },
+  {
+    "opinion_id": "cap-3654849",
+    "name_abbreviation": "United States v. Aluminum Co. of America",
+    "official_citation": "148 F.2d 416",
+    "source_url": "https://static.case.law/f2d/148/cases/0416-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 130860
+  },
+  {
+    "opinion_id": "cap-379234",
+    "name_abbreviation": "New York Times Co. v. Sullivan",
+    "official_citation": "376 U.S. 254",
+    "source_url": "https://static.case.law/us/376/cases/0254-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 107574
+  },
+  {
+    "opinion_id": "cap-4061242",
+    "name_abbreviation": "Judicial Watch, Inc. v. Consumer Financial Protection Bureau",
+    "official_citation": "985 F. Supp. 2d 1",
+    "source_url": "https://static.case.law/f-supp-2d/985/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 30621
+  },
+  {
+    "opinion_id": "cap-4092622",
+    "name_abbreviation": "DRC, Inc. v. Republic of Honduras",
+    "official_citation": "999 F. Supp. 2d 1",
+    "source_url": "https://static.case.law/f-supp-2d/999/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 21273
+  },
+  {
+    "opinion_id": "cap-4093680",
+    "name_abbreviation": "Landrith v. Roberts",
+    "official_citation": "999 F. Supp. 2d 8",
+    "source_url": "https://static.case.law/f-supp-2d/999/cases/0008-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 40530
+  },
+  {
+    "opinion_id": "cap-4093734",
+    "name_abbreviation": "Electronic Privacy Information Center v. Department of Homeland Security",
+    "official_citation": "999 F. Supp. 2d 24",
+    "source_url": "https://static.case.law/f-supp-2d/999/cases/0024-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 30041
+  },
+  {
+    "opinion_id": "cap-4093878",
+    "name_abbreviation": "Porter v. Astrue",
+    "official_citation": "999 F. Supp. 2d 35",
+    "source_url": "https://static.case.law/f-supp-2d/999/cases/0035-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 24880
+  },
+  {
+    "opinion_id": "cap-4093906",
+    "name_abbreviation": "Richardson v. United States",
+    "official_citation": "999 F. Supp. 2d 44",
+    "source_url": "https://static.case.law/f-supp-2d/999/cases/0044-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 15084
+  },
+  {
+    "opinion_id": "cap-4122383",
+    "name_abbreviation": "Casillas-Sanchez v. Ryder Memorial Hospital, Inc.",
+    "official_citation": "1 F. Supp. 3d 1",
+    "source_url": "https://static.case.law/f-supp-3d/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12685
+  },
+  {
+    "opinion_id": "cap-4122812",
+    "name_abbreviation": "Mazuma Holding Corp. v. Bethke",
+    "official_citation": "1 F. Supp. 3d 6",
+    "source_url": "https://static.case.law/f-supp-3d/1/cases/0006-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 74455
+  },
+  {
+    "opinion_id": "cap-4122981",
+    "name_abbreviation": "In re HSBC Bank, USA, N.A., Debit Card Overdraft Fee Litigation",
+    "official_citation": "1 F. Supp. 3d 34",
+    "source_url": "https://static.case.law/f-supp-3d/1/cases/0034-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 65990
+  },
+  {
+    "opinion_id": "cap-4123066",
+    "name_abbreviation": "Morency v. Village of Lynbrook P.O.",
+    "official_citation": "1 F. Supp. 3d 58",
+    "source_url": "https://static.case.law/f-supp-3d/1/cases/0058-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 16148
+  },
+  {
+    "opinion_id": "cap-4123081",
+    "name_abbreviation": "Longo v. Flightsafety International, Inc.",
+    "official_citation": "1 F. Supp. 3d 63",
+    "source_url": "https://static.case.law/f-supp-3d/1/cases/0063-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 27169
+  },
+  {
+    "opinion_id": "cap-4133214",
+    "name_abbreviation": "Irving Trust Co. v. Frimitt",
+    "official_citation": "1 F. Supp. 16",
+    "source_url": "https://static.case.law/f-supp/1/cases/0016-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 6892
+  },
+  {
+    "opinion_id": "cap-4133851",
+    "name_abbreviation": "United States v. Heller",
+    "official_citation": "1 F. Supp. 1",
+    "source_url": "https://static.case.law/f-supp/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 31305
+  },
+  {
+    "opinion_id": "cap-4134881",
+    "name_abbreviation": "New York Dock Ry. v. Pennsylvania R.",
+    "official_citation": "1 F. Supp. 20",
+    "source_url": "https://static.case.law/f-supp/1/cases/0020-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 6822
+  },
+  {
+    "opinion_id": "cap-4137277",
+    "name_abbreviation": "Garland Co. v. Filmer",
+    "official_citation": "1 F. Supp. 8",
+    "source_url": "https://static.case.law/f-supp/1/cases/0008-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 32915
+  },
+  {
+    "opinion_id": "cap-4137450",
+    "name_abbreviation": "In re Tucker",
+    "official_citation": "1 F. Supp. 18",
+    "source_url": "https://static.case.law/f-supp/1/cases/0018-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4748
+  },
+  {
+    "opinion_id": "cap-42587",
+    "name_abbreviation": "Kellogg v. Ingersoll",
+    "official_citation": "1 Mass. 4",
+    "source_url": "https://static.case.law/mass/1/cases/0004-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 887
+  },
+  {
+    "opinion_id": "cap-42687",
+    "name_abbreviation": "Commonwealth v. Millard",
+    "official_citation": "1 Mass. 4",
+    "source_url": "https://static.case.law/mass/1/cases/0004-02.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2346
+  },
+  {
+    "opinion_id": "cap-42699",
+    "name_abbreviation": "Commonwealth v. Catlin",
+    "official_citation": "1 Mass. 7",
+    "source_url": "https://static.case.law/mass/1/cases/0007-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 630
+  },
+  {
+    "opinion_id": "cap-42729",
+    "name_abbreviation": "Commonwealth v. Hutchinson",
+    "official_citation": "1 Mass. 6",
+    "source_url": "https://static.case.law/mass/1/cases/0006-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1625
+  },
+  {
+    "opinion_id": "cap-42739",
+    "name_abbreviation": "Gold v. Eddy",
+    "official_citation": "1 Mass. 1",
+    "source_url": "https://static.case.law/mass/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 150
+  },
+  {
+    "opinion_id": "cap-4288888",
+    "name_abbreviation": "People v. Mullins",
+    "official_citation": "242 Ill. 2d 1",
+    "source_url": "https://static.case.law/ill-2d/242/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 58390
+  },
+  {
+    "opinion_id": "cap-4288900",
+    "name_abbreviation": "People v. Ziobro",
+    "official_citation": "242 Ill. 2d 34",
+    "source_url": "https://static.case.law/ill-2d/242/cases/0034-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 24430
+  },
+  {
+    "opinion_id": "cap-4288942",
+    "name_abbreviation": "Speed District 802 v. Warning",
+    "official_citation": "242 Ill. 2d 92",
+    "source_url": "https://static.case.law/ill-2d/242/cases/0092-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 131403
+  },
+  {
+    "opinion_id": "cap-4288959",
+    "name_abbreviation": "People v. Absher",
+    "official_citation": "242 Ill. 2d 77",
+    "source_url": "https://static.case.law/ill-2d/242/cases/0077-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 24600
+  },
+  {
+    "opinion_id": "cap-4289008",
+    "name_abbreviation": "Phoenix Insurance v. Rosen",
+    "official_citation": "242 Ill. 2d 48",
+    "source_url": "https://static.case.law/ill-2d/242/cases/0048-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 48751
+  },
+  {
+    "opinion_id": "cap-4381358",
+    "name_abbreviation": "Ford v. Ford",
+    "official_citation": "276 Cal. App. 2d 9",
+    "source_url": "https://static.case.law/cal-app-2d/276/cases/0009-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 10960
+  },
+  {
+    "opinion_id": "cap-4381372",
+    "name_abbreviation": "McGinnis v. Fid. & Cas. Co. of N.Y.",
+    "official_citation": "276 Cal. App. 2d 15",
+    "source_url": "https://static.case.law/cal-app-2d/276/cases/0015-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 6558
+  },
+  {
+    "opinion_id": "cap-4381384",
+    "name_abbreviation": "James v. P.C.S. Ginning Co.",
+    "official_citation": "276 Cal. App. 2d 19",
+    "source_url": "https://static.case.law/cal-app-2d/276/cases/0019-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 10820
+  },
+  {
+    "opinion_id": "cap-4382515",
+    "name_abbreviation": "People v. Ortiz",
+    "official_citation": "276 Cal. App. 2d 1",
+    "source_url": "https://static.case.law/cal-app-2d/276/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14589
+  },
+  {
+    "opinion_id": "cap-4382588",
+    "name_abbreviation": "Noonan v. Green",
+    "official_citation": "276 Cal. App. 2d 25",
+    "source_url": "https://static.case.law/cal-app-2d/276/cases/0025-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14024
+  },
+  {
+    "opinion_id": "cap-4702",
+    "name_abbreviation": "M'Culloch v. Maryland",
+    "official_citation": "17 U.S. 316",
+    "source_url": "https://static.case.law/us/17/cases/0316-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 59739
+  },
+  {
+    "opinion_id": "cap-501867",
+    "name_abbreviation": "Wetmore v. Mell",
+    "official_citation": "1 Ohio St. 26",
+    "source_url": "https://static.case.law/ohio-st/1/cases/0022-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5385
+  },
+  {
+    "opinion_id": "cap-501884",
+    "name_abbreviation": "Ex parte Black",
+    "official_citation": "1 Ohio St. 30",
+    "source_url": "https://static.case.law/ohio-st/1/cases/0026-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 7920
+  },
+  {
+    "opinion_id": "cap-501892",
+    "name_abbreviation": "Bartholomew v. Bentley",
+    "official_citation": "1 Ohio St. 37",
+    "source_url": "https://static.case.law/ohio-st/1/cases/0032-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 15165
+  },
+  {
+    "opinion_id": "cap-501893",
+    "name_abbreviation": "Hirn v. State",
+    "official_citation": "1 Ohio St. 15",
+    "source_url": "https://static.case.law/ohio-st/1/cases/0013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 17561
+  },
+  {
+    "opinion_id": "cap-501924",
+    "name_abbreviation": "Creed v. President of the Lancaster Bank",
+    "official_citation": "1 Ohio St. 1",
+    "source_url": "https://static.case.law/ohio-st/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 20039
+  },
+  {
+    "opinion_id": "cap-5314652",
+    "name_abbreviation": "Chicago Park District v. Downey Coal Co.",
+    "official_citation": "1 Ill. 2d 54",
+    "source_url": "https://static.case.law/ill-2d/1/cases/0054-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 9877
+  },
+  {
+    "opinion_id": "cap-5314796",
+    "name_abbreviation": "Works v. McNeil",
+    "official_citation": "1 Ill. 2d 47",
+    "source_url": "https://static.case.law/ill-2d/1/cases/0047-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 11869
+  },
+  {
+    "opinion_id": "cap-5314851",
+    "name_abbreviation": "Hannifin Corp. v. City of Berwyn",
+    "official_citation": "1 Ill. 2d 28",
+    "source_url": "https://static.case.law/ill-2d/1/cases/0028-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14398
+  },
+  {
+    "opinion_id": "cap-5315274",
+    "name_abbreviation": "County of Cook v. Richert",
+    "official_citation": "1 Ill. 2d 21",
+    "source_url": "https://static.case.law/ill-2d/1/cases/0021-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 13016
+  },
+  {
+    "opinion_id": "cap-5315365",
+    "name_abbreviation": "Continental Paper Grading Co. v. Fisher",
+    "official_citation": "1 Ill. 2d 37",
+    "source_url": "https://static.case.law/ill-2d/1/cases/0037-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 17939
+  },
+  {
+    "opinion_id": "cap-579567",
+    "name_abbreviation": "People v. Rodriguez",
+    "official_citation": "100 N.Y.2d 30",
+    "source_url": "https://static.case.law/ny-2d/100/cases/0030-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12616
+  },
+  {
+    "opinion_id": "cap-579593",
+    "name_abbreviation": "Crump v. Unigard Insurance",
+    "official_citation": "100 N.Y.2d 12",
+    "source_url": "https://static.case.law/ny-2d/100/cases/0012-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 9324
+  },
+  {
+    "opinion_id": "cap-579602",
+    "name_abbreviation": "Kennedy v. Mossafa",
+    "official_citation": "100 N.Y.2d 1",
+    "source_url": "https://static.case.law/ny-2d/100/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 17965
+  },
+  {
+    "opinion_id": "cap-579608",
+    "name_abbreviation": "People v. West",
+    "official_citation": "100 N.Y.2d 23",
+    "source_url": "https://static.case.law/ny-2d/100/cases/0023-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 11944
+  },
+  {
+    "opinion_id": "cap-579697",
+    "name_abbreviation": "In re Tamsen",
+    "official_citation": "100 N.Y.2d 19",
+    "source_url": "https://static.case.law/ny-2d/100/cases/0019-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4507
+  },
+  {
+    "opinion_id": "cap-6157001",
+    "name_abbreviation": "International Shoe Co. v. Washington",
+    "official_citation": "326 U.S. 310",
+    "source_url": "https://static.case.law/us/326/cases/0310-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 29981
+  },
+  {
+    "opinion_id": "cap-6167798",
+    "name_abbreviation": "Terry v. Ohio",
+    "official_citation": "392 U.S. 1",
+    "source_url": "https://static.case.law/us/392/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 69738
+  },
+  {
+    "opinion_id": "cap-6209106",
+    "name_abbreviation": "Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc.",
+    "official_citation": "467 U.S. 837",
+    "source_url": "https://static.case.law/us/467/cases/0837-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 56179
+  },
+  {
+    "opinion_id": "cap-6714178",
+    "name_abbreviation": "Groves v. Graves",
+    "official_citation": "1 Va. 1",
+    "source_url": "https://static.case.law/va/1/cases/0357-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2801
+  },
+  {
+    "opinion_id": "cap-6714194",
+    "name_abbreviation": "Johnson v. Macon",
+    "official_citation": "1 Va. 4",
+    "source_url": "https://static.case.law/va/1/cases/0358-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2461
+  },
+  {
+    "opinion_id": "cap-6714209",
+    "name_abbreviation": "Smith v. Harmanson",
+    "official_citation": "1 Va. 6",
+    "source_url": "https://static.case.law/va/1/cases/0359-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2195
+  },
+  {
+    "opinion_id": "cap-6714224",
+    "name_abbreviation": "Pleasants v. Bibb",
+    "official_citation": "1 Va. 8",
+    "source_url": "https://static.case.law/va/1/cases/0360-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 983
+  },
+  {
+    "opinion_id": "cap-6714239",
+    "name_abbreviation": "Brown v. Belches",
+    "official_citation": "1 Va. 9",
+    "source_url": "https://static.case.law/va/1/cases/0360-02.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1168
+  },
+  {
+    "opinion_id": "cap-67384",
+    "name_abbreviation": "Jones v. Peacock",
+    "official_citation": "267 Va. 16",
+    "source_url": "https://static.case.law/va/267/cases/0016-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 13755
+  },
+  {
+    "opinion_id": "cap-67415",
+    "name_abbreviation": "Wright v. Eckhardt",
+    "official_citation": "267 Va. 24",
+    "source_url": "https://static.case.law/va/267/cases/0024-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 7449
+  },
+  {
+    "opinion_id": "cap-67417",
+    "name_abbreviation": "Rawlings v. Lopez",
+    "official_citation": "267 Va. 4",
+    "source_url": "https://static.case.law/va/267/cases/0004-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 3885
+  },
+  {
+    "opinion_id": "cap-67433",
+    "name_abbreviation": "Dogwood Valley Citizens Ass'n v. Winkelman",
+    "official_citation": "267 Va. 7",
+    "source_url": "https://static.case.law/va/267/cases/0007-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 13884
+  },
+  {
+    "opinion_id": "cap-67442",
+    "name_abbreviation": "Hines v. Kuplinski",
+    "official_citation": "267 Va. 1",
+    "source_url": "https://static.case.law/va/267/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5764
+  },
+  {
+    "opinion_id": "cap-7258247",
+    "name_abbreviation": "Johnson v. Johnson",
+    "official_citation": "999 N.E.2d 56",
+    "source_url": "https://static.case.law/ne2d/999/cases/0056-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 21680
+  },
+  {
+    "opinion_id": "cap-7258289",
+    "name_abbreviation": "Indiana Gas Co. v. Indiana Finance Authority",
+    "official_citation": "999 N.E.2d 63",
+    "source_url": "https://static.case.law/ne2d/999/cases/0063-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 10960
+  },
+  {
+    "opinion_id": "cap-7258311",
+    "name_abbreviation": "Piatek v. Beale",
+    "official_citation": "999 N.E.2d 68",
+    "source_url": "https://static.case.law/ne2d/999/cases/0068-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 6169
+  },
+  {
+    "opinion_id": "cap-7258340",
+    "name_abbreviation": "Corbin v. State",
+    "official_citation": "999 N.E.2d 70",
+    "source_url": "https://static.case.law/ne2d/999/cases/0070-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 37076
+  },
+  {
+    "opinion_id": "cap-7258359",
+    "name_abbreviation": "Deeter v. Indiana Farmers Mutual Insurance Co.",
+    "official_citation": "999 N.E.2d 82",
+    "source_url": "https://static.case.law/ne2d/999/cases/0082-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 7686
+  },
+  {
+    "opinion_id": "cap-7284731",
+    "name_abbreviation": "In re Bah",
+    "official_citation": "999 A.2d 21",
+    "source_url": "https://static.case.law/a2d/999/cases/0021-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 2506
+  },
+  {
+    "opinion_id": "cap-7284825",
+    "name_abbreviation": "ETDH Associates v. Waterfall Ventures, LLC",
+    "official_citation": "999 A.2d 22",
+    "source_url": "https://static.case.law/a2d/999/cases/0022-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 49213
+  },
+  {
+    "opinion_id": "cap-7284900",
+    "name_abbreviation": "In re A.B.",
+    "official_citation": "999 A.2d 36",
+    "source_url": "https://static.case.law/a2d/999/cases/0036-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 35893
+  },
+  {
+    "opinion_id": "cap-7284940",
+    "name_abbreviation": "Haney v. United States",
+    "official_citation": "999 A.2d 48",
+    "source_url": "https://static.case.law/a2d/999/cases/0048-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 5893
+  },
+  {
+    "opinion_id": "cap-7284994",
+    "name_abbreviation": "In re Estate of Randall",
+    "official_citation": "999 A.2d 51",
+    "source_url": "https://static.case.law/a2d/999/cases/0051-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12910
+  },
+  {
+    "opinion_id": "cap-7285986",
+    "name_abbreviation": "City of Westland Police & Fire Retirement System v. Axcelis Technologies, Inc.",
+    "official_citation": "1 A.3d 281",
+    "source_url": "https://static.case.law/a3d/1/cases/0281-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 32263
+  },
+  {
+    "opinion_id": "cap-7286032",
+    "name_abbreviation": "Parkcentral Global, L.P. v. Brown Investment Management, L.P.",
+    "official_citation": "1 A.3d 291",
+    "source_url": "https://static.case.law/a3d/1/cases/0291-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 21452
+  },
+  {
+    "opinion_id": "cap-7286129",
+    "name_abbreviation": "Jones v. Crawford",
+    "official_citation": "1 A.3d 299",
+    "source_url": "https://static.case.law/a3d/1/cases/0299-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14152
+  },
+  {
+    "opinion_id": "cap-7286170",
+    "name_abbreviation": "Dewey Beach Enterprises, Inc. v. Board of Adjustment of Dewey Beach",
+    "official_citation": "1 A.3d 305",
+    "source_url": "https://static.case.law/a3d/1/cases/0305-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12947
+  },
+  {
+    "opinion_id": "cap-7286302",
+    "name_abbreviation": "Yucaipa American Alliance Fund II, L.P. v. Riggio",
+    "official_citation": "1 A.3d 310",
+    "source_url": "https://static.case.law/a3d/1/cases/0310-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 176309
+  },
+  {
+    "opinion_id": "cap-7405252",
+    "name_abbreviation": "Steve Jackson Games, Inc. v. United States Secret Service",
+    "official_citation": "816 F. Supp. 432",
+    "source_url": "https://static.case.law/f-supp/816/cases/0432-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 43925
+  },
+  {
+    "opinion_id": "cap-8152382",
+    "name_abbreviation": "D'Elia & Marks Co. v. Lyon",
+    "official_citation": "31 A.2d 647",
+    "source_url": "https://static.case.law/a2d/31/cases/0647-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 6259
+  },
+  {
+    "opinion_id": "cap-8152417",
+    "name_abbreviation": "Rogers v. District of Columbia",
+    "official_citation": "31 A.2d 649",
+    "source_url": "https://static.case.law/a2d/31/cases/0649-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 10154
+  },
+  {
+    "opinion_id": "cap-8152449",
+    "name_abbreviation": "Morris v. District of Columbia",
+    "official_citation": "31 A.2d 652",
+    "source_url": "https://static.case.law/a2d/31/cases/0652-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4075
+  },
+  {
+    "opinion_id": "cap-8152490",
+    "name_abbreviation": "American Heating Engineering Co. v. Kennedy-Chamberlin Development Co.",
+    "official_citation": "31 A.2d 654",
+    "source_url": "https://static.case.law/a2d/31/cases/0654-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 3956
+  },
+  {
+    "opinion_id": "cap-8152527",
+    "name_abbreviation": "Fliss v. Reliable Construction & Realty Co.",
+    "official_citation": "31 A.2d 655",
+    "source_url": "https://static.case.law/a2d/31/cases/0655-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4271
+  },
+  {
+    "opinion_id": "cap-8159325",
+    "name_abbreviation": "Succession of Casanova",
+    "official_citation": "999 So. 2d 1",
+    "source_url": "https://static.case.law/so2d/999/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 7031
+  },
+  {
+    "opinion_id": "cap-8159400",
+    "name_abbreviation": "Succession of Jones",
+    "official_citation": "999 So. 2d 3",
+    "source_url": "https://static.case.law/so2d/999/cases/0003-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 9565
+  },
+  {
+    "opinion_id": "cap-8159457",
+    "name_abbreviation": "State v. Franklin",
+    "official_citation": "999 So. 2d 7",
+    "source_url": "https://static.case.law/so2d/999/cases/0007-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4280
+  },
+  {
+    "opinion_id": "cap-8159530",
+    "name_abbreviation": "Total Gas & Power North America, Inc. v. Bridges",
+    "official_citation": "999 So. 2d 9",
+    "source_url": "https://static.case.law/so2d/999/cases/0009-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 13141
+  },
+  {
+    "opinion_id": "cap-8159655",
+    "name_abbreviation": "Zavala v. St. Joe Brick Works",
+    "official_citation": "999 So. 2d 13",
+    "source_url": "https://static.case.law/so2d/999/cases/0013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 18843
+  },
+  {
+    "opinion_id": "cap-8677131",
+    "name_abbreviation": "Archer v. Henry",
+    "official_citation": "275 Wis. 1",
+    "source_url": "https://static.case.law/wis/275/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 14881
+  },
+  {
+    "opinion_id": "cap-8677153",
+    "name_abbreviation": "Metz v. Rath",
+    "official_citation": "275 Wis. 12",
+    "source_url": "https://static.case.law/wis/275/cases/0012-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 10628
+  },
+  {
+    "opinion_id": "cap-8677160",
+    "name_abbreviation": "Krejci v. Lojeski",
+    "official_citation": "275 Wis. 20",
+    "source_url": "https://static.case.law/wis/275/cases/0020-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 6621
+  },
+  {
+    "opinion_id": "cap-8677175",
+    "name_abbreviation": "Heine v. Oswald Jaeger Baking Co.",
+    "official_citation": "275 Wis. 26",
+    "source_url": "https://static.case.law/wis/275/cases/0026-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 8052
+  },
+  {
+    "opinion_id": "cap-8677189",
+    "name_abbreviation": "Barnes v. City of West Allis",
+    "official_citation": "275 Wis. 31",
+    "source_url": "https://static.case.law/wis/275/cases/0031-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 9431
+  },
+  {
+    "opinion_id": "cap-8711907",
+    "name_abbreviation": "In re Dabney",
+    "official_citation": "71 Cal. 2d 1",
+    "source_url": "https://static.case.law/cal-2d/71/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 21843
+  },
+  {
+    "opinion_id": "cap-8711908",
+    "name_abbreviation": "In re Arguello",
+    "official_citation": "71 Cal. 2d 13",
+    "source_url": "https://static.case.law/cal-2d/71/cases/0013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 9134
+  },
+  {
+    "opinion_id": "cap-8711910",
+    "name_abbreviation": "People v. De Santiago",
+    "official_citation": "71 Cal. 2d 18",
+    "source_url": "https://static.case.law/cal-2d/71/cases/0018-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 27361
+  },
+  {
+    "opinion_id": "cap-8711913",
+    "name_abbreviation": "In re Marks",
+    "official_citation": "71 Cal. 2d 31",
+    "source_url": "https://static.case.law/cal-2d/71/cases/0031-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 52818
+  },
+  {
+    "opinion_id": "cap-8711915",
+    "name_abbreviation": "In re Walkee",
+    "official_citation": "71 Cal. 2d 54",
+    "source_url": "https://static.case.law/cal-2d/71/cases/0054-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12100
+  },
+  {
+    "opinion_id": "cap-8712996",
+    "name_abbreviation": "Winne v. Nickerson",
+    "official_citation": "1 Wis. 1",
+    "source_url": "https://static.case.law/wis/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4570
+  },
+  {
+    "opinion_id": "cap-8713002",
+    "name_abbreviation": "Ferrell v. Lamar",
+    "official_citation": "1 Wis. 8",
+    "source_url": "https://static.case.law/wis/1/cases/0008-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12086
+  },
+  {
+    "opinion_id": "cap-8713008",
+    "name_abbreviation": "Heeron v. Beckwith",
+    "official_citation": "1 Wis. 17",
+    "source_url": "https://static.case.law/wis/1/cases/0017-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 7790
+  },
+  {
+    "opinion_id": "cap-8713009",
+    "name_abbreviation": "Gibbs v. Holcomb",
+    "official_citation": "1 Wis. 23",
+    "source_url": "https://static.case.law/wis/1/cases/0023-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 1631
+  },
+  {
+    "opinion_id": "cap-8713015",
+    "name_abbreviation": "Lightfoot v. Cole",
+    "official_citation": "1 Wis. 26",
+    "source_url": "https://static.case.law/wis/1/cases/0026-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 16939
+  },
+  {
+    "opinion_id": "cap-8848924",
+    "name_abbreviation": "Stewart v. Preston",
+    "official_citation": "1 Fla. 1",
+    "source_url": "https://static.case.law/fla/1/cases/0001-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 4811
+  },
+  {
+    "opinion_id": "cap-8848956",
+    "name_abbreviation": "Stewart v. Preston",
+    "official_citation": "1 Fla. 10",
+    "source_url": "https://static.case.law/fla/1/cases/0010-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 11782
+  },
+  {
+    "opinion_id": "cap-8848982",
+    "name_abbreviation": "Whitaker v. Morrison",
+    "official_citation": "1 Fla. 25",
+    "source_url": "https://static.case.law/fla/1/cases/0025-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 17420
+  },
+  {
+    "opinion_id": "cap-8849012",
+    "name_abbreviation": "Cotten v. Williams",
+    "official_citation": "1 Fla. 37",
+    "source_url": "https://static.case.law/fla/1/cases/0037-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 34056
+  },
+  {
+    "opinion_id": "cap-8849046",
+    "name_abbreviation": "Thompson v. Williams",
+    "official_citation": "1 Fla. 56",
+    "source_url": "https://static.case.law/fla/1/cases/0056-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12328
+  },
+  {
+    "opinion_id": "cap-949838",
+    "name_abbreviation": "Seibert v. Kline",
+    "official_citation": "1 Pa. 38",
+    "source_url": "https://static.case.law/pa/1/cases/0038-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 11431
+  },
+  {
+    "opinion_id": "cap-949857",
+    "name_abbreviation": "Morrison v. Hoffman",
+    "official_citation": "1 Pa. 13",
+    "source_url": "https://static.case.law/pa/1/cases/0013-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 10268
+  },
+  {
+    "opinion_id": "cap-949859",
+    "name_abbreviation": "Keim v. Bank of Penn Township",
+    "official_citation": "1 Pa. 36",
+    "source_url": "https://static.case.law/pa/1/cases/0036-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 931
+  },
+  {
+    "opinion_id": "cap-949883",
+    "name_abbreviation": "Baney v. Killmer",
+    "official_citation": "1 Pa. 30",
+    "source_url": "https://static.case.law/pa/1/cases/0030-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 3223
+  },
+  {
+    "opinion_id": "cap-949922",
+    "name_abbreviation": "Mann's Appeal",
+    "official_citation": "1 Pa. 24",
+    "source_url": "https://static.case.law/pa/1/cases/0024-01.json",
+    "retrieved": "2026-09-02",
+    "text_len": 12230
+  }
+]

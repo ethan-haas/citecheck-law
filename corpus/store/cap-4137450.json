@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-4137450",
+  "cap_id": 4137450,
+  "name": "In re TUCKER",
+  "name_abbreviation": "In re Tucker",
+  "reporter": "F. Supp.",
+  "reporter_slug": "f-supp",
+  "volume": 1,
+  "first_page": 18,
+  "last_page": 19,
+  "official_citation": "1 F. Supp. 18",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 F. Supp. 18"
+    }
+  ],
+  "court": "United States District Court for the Southern District of Mississippi",
+  "court_slug": null,
+  "jurisdiction": "U.S.",
+  "decision_date": "1932-09-06",
+  "docket_number": "No. 1307",
+  "text": "HOLMES, District Judge.\nThe bankrupt, J. D. Tucker, trading under the name of Oderless Cleaners and Dyers, executed a mortgage to secure a series of notes evidencing an indebtedness for the purchase price of certain equipment, described in the mortgage as follows:\n“1 — JF Purator, complete\n“1 — CECO Soap Strainer\n“1 — -Yates Handy Dry Cleaning Washer\n—31\"x42\"\n“1 — B. H. Viking Pump\n“1 — JT Master Trap\n“2 — 1(4” CECO Sight Glasses.\n“Said above described personal property is now located at No. 5091 Twenty-fourth Ave., in the City of Meridian, County of Lauderdale, and State of Mississippi, and shall remain at said location in the possession of the said Buyer.”\nThe petitioner, the Cleaners’ Equipment Company, the mortgagee and seller of the personal property, seeks to reclaim the same from the trustee in bankruptcy or to have its claim allowed priority upon the grounds: (1) That it has a lien by virtue of the mortgage, which was duly filed and recorded in the office of the chancery clerk of the county in which the property was situated; and (2) that' it has a lien for the purchase money under section 2239 of the Mississippi Code of 1930. They will be considered in the order named.\nThe Bankruptcy Act provides, in section 67a (11 USCA § 107(a),' that: “Claims which for want of record or for other reasons would not have been valid liens as against the claims of the creditors of the bankrupt shall not be liens against his estate.”\nBy section 70a (5) of the act (11 USCA § 110(a) (5), the trustee of the estate of a bankrupt gets the title to all “property which prior to the filing of the petition he could by any means have transferred or which might have been levied upon and sold under judicial process against him.”\nBy section 47a (2) of the act, as amended (11 USCA § 75(a) (2), the trustee in bankruptcy, by virtue of his office, is vested with the most potent rights, remedies, and powers of a creditor holding a lien on the property in controversy by legal or equitable proceedings. The validity of the mortgage, when subjected to an attack of the trustee, exercising the rights of such a creditor, is to be determined by the laws of the state as construed by its court of last resort. Thompson v. Fairbanks, 196 U. S. 516, 25 S. Ct. 306, 49 L. Ed. 577.\nBy section 2147, Miss. Code of 1930, it is provided that “all deeds * * * and mortgages whatsoever, shall be void as to all creditors” without notice, unless filed for record in the samé manner that other conveyances are required to be recorded. In the ease under consideration, the only notice given was such as was imparted by the record. Recordation of a deed or mortgage containing a void description is insufficient to give constructive notice, and does not put one upon inquiry. Sack v. Gilmer Dry Goods Co., 149 Miss. 296, 115 So. 339.\nUnder the Mississippi decisions, the chattel mortgage in this case is void as to an execution creditor because it does not contain such terms of description as are necessary to distinguish the property embraced therein from all other property of the same kind. The street address where the property is situated is not sufficient. Similar articles of the class intended to be conveyed may be found, and in fact were found, at the same location. The fact or circumstance which serves to distinguish the property must be stated in the mortgage itself, and “cannot be proved by parol evidence without thereby adding to the mortgage a term not contained in it.” Kelly v. Reid, 57 Miss. 89; Nicholson v. Karpe, 58 Miss. 34; Allen v. Dicken, 63 Miss. 91; Leffel v. Miller (Miss.) 7 So. 324; In re Caver, Caver & Co. (D. C.) 42 F.(2d) 293.\nThe lien given the vendor on personal property for purchase money, by the terms of the Mississippi statute cited, continues in force “while it remains in the hands of the first purchaser, or of one deriving title or possession through him, with notice that the purchase money was unpaid”; but it is not necessary in this case to decide whether such lien survives in bankruptcy, because neither the petition nor the proof properly presents such an issue. They show that the notes secured by the mortgage were for purchase money, but where the contract of sale was entered into by. the parties, or where the property was delivered by the seller to the buyer, does not appear. Notwithstanding anything in the record, the transaction may have taken place entirely outside of the state of Mississippi. If so, its statute could not have effect to impress a lien for the pui’chase money on property purchased beyond its territorial limits, and brought into the state after delivery to the buyer. In re Cagle (D. C.) 299 F. 789.\nThe prayer of the petition will be denied by an order to be duly entered.",
+  "text_len": 4748,
+  "source_url": "https://static.case.law/f-supp/1/cases/0018-01.json",
+  "retrieved": "2026-09-02"
+}

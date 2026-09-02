@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-1408451",
+  "cap_id": 1408451,
+  "name": "The Lessee of Lewis and Mart Weston v. Thomas Stammers",
+  "name_abbreviation": "Lessee of Lewis v. Stammers",
+  "reporter": "U.S.",
+  "reporter_slug": "us",
+  "volume": 1,
+  "first_page": 3,
+  "last_page": 3,
+  "official_citation": "1 U.S. 2",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Dall. 2"
+    },
+    {
+      "type": "official",
+      "cite": "1 U.S. 2"
+    }
+  ],
+  "court": "Supreme Court of Pennsylvania",
+  "court_slug": null,
+  "jurisdiction": "Pa.",
+  "decision_date": "1759-04",
+  "docket_number": "",
+  "text": "An exemplification of a will, made in England, and certified generally to have been proved, approved and registered, in the year 1704, in the prerogative court of Canterbury, under the seal of the said prerogative court, allowed, on debate, to be read in evidence to the jury.\nSame Cause.\nMinutes of the Commissioners of Property allowed to be given in evidence,\nSame Cause.\nDepositions taken in a former cause, by rule of court, with consent of parties (in an inferior court), in which the present defendant was a party, and where the present title (it was said) came in question, upon debate, were ruled by the Court to be no evidence in this cause.\nNote. — It did not appear that those depositions were read in evidence\" on the former trial.\nIn Morris v. Vanderen, post, p. 64, a will was allowed to go to the jury, under the same circumstances; but in Hylton v. Brown, 1 W. C. C. 298, it was determined, that to authorize a copy of a will, made in another state or country, to be admitted in evidence here, it was necessary that it should appear to have been proved there by two witnesses, according to the act of 1705. And see Logan v. Watt, 5 S. & R. 212.\ncl) It has been held, however, that the minutes of the Board of Property are not evidence of any fact, but what passes immediately before it, and consequently, that they are not competent evidence of the facts stated in them to have been pioved before the board. Deal v. McCormick, 3 S. & R. 343; Carothers v. Dunnings, Id. 379. And see Dougherty v. Piper, 3 Yeates 290; Poster v. Shaw, 7 S. & R. 156.\nSee Boudereau v. Montgomery, 4 W. C. C. 186; Miles v. O’Hara, 4 Binn. 111, Richardson v. Stewart, 2 S. & R. 84.\nSince remedied by act 28th March 1814. 6 Sm. L. 208.",
+  "text_len": 1728,
+  "source_url": "https://static.case.law/us/1/cases/0003-02.json",
+  "retrieved": "2026-09-02"
+}

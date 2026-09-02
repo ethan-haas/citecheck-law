@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "citecheck-law"
+version = "0.1.0"
+description = "Verify legal citations against a public-domain caselaw corpus: verified / exists-unsupported / not-found / cannot-verify, with a literal span proof."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Ethan Haas", email = "ethanzhaas@gmail.com" }]
+dependencies = []
+
+[project.scripts]
+citecheck = "citecheck.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["citecheck*"]

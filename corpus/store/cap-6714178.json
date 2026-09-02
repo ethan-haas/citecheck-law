@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-6714178",
+  "cap_id": 6714178,
+  "name": "Groves v. Graves",
+  "name_abbreviation": "Groves v. Graves",
+  "reporter": "Va.",
+  "reporter_slug": "va",
+  "volume": 1,
+  "first_page": 357,
+  "last_page": 358,
+  "official_citation": "1 Va. 1",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Wash. 1"
+    },
+    {
+      "type": "official",
+      "cite": "1 Va. 1"
+    }
+  ],
+  "court": "Court of Appeals of Virginia",
+  "court_slug": null,
+  "jurisdiction": "Va.",
+  "decision_date": "1790-10",
+  "docket_number": "",
+  "text": "THE PRESIDENT\ndelivered the following as the opinion and decree of the Court. “ The Contract between the parties ought to be taken as purporting the delivery of certificates on thg 1st of November 1787, at twenty shillings, for every twenty six pence of the amount of the specie advanced, and, the payment in certificates at half the value in case of failure, only as a penalty; and, therefore, the contract was neither usurious, or so unconscionable as to be set aside in a Court of Equity, twenty sixpence being only the lowest rate of the market price of such certificates at the time. The verdict of the jury was not only wrong, as being for the penalty, but in the measure of damages, taking for that measure the value of certificates at the time of the trial when, under the peculiar circumstances of this case, the value at the time they should have been delivered, ought to be the rule. The decree, therefore, must be reversed with costs, and an issue, ought to be made up, and tried by a jury between the parties, to ascertain what was the current market value of such certificates in specie, on the 1st day of November 1787, and so much specie as the £260 turned into certificates at 26 pence, and again changed into specie at the rate so to be settled by the jury, will amount to, with interest from the 1st of November 1787, and the costs at common law, ought to be paid to the appellant. But the parties waving the trial by a jury, and agreeing, that the current market price of such certificates on the *said 1st of November 1787, was twenty eight pence half penny, and that £285 specie is the value thereof as ascertained according to the above opinion, it is decreed and ordered that on payment by the appellee to the appellant of the said £285, with interest thereon, at the rate of 5 per cent, per annum, from the 1st of November 1787, ’till payment, and all costs at common law, .the injunction to the judgment be made perpetual, and that on such payment, the appellant shall deliver, and assign to the appellee the deed for the 40,000 acres of land, in the proceedings mentioned, and all papers relative thereto, or such as he received, to remain as a security to the appellee for his indemnification, and the surplus for the benefit of John Stockdell in the proceedings also mentioned, and, if payment, as aforesaid, be not made to the appellant within one month after making the final decree, that the said land be sold, by commissioners to be appointed by the High Court of Chancery, at public sale, for ready money, at a time and place to be previously advertised in one of the Gazettes. That this decree be satisfied out of the money arising from such sale, and that the surplus, after satisfying the appellee all his costs at law and in equity be paid to the said Stockdell.”",
+  "text_len": 2801,
+  "source_url": "https://static.case.law/va/1/cases/0357-01.json",
+  "retrieved": "2026-09-02"
+}

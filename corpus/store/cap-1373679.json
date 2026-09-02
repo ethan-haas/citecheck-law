@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-1373679",
+  "cap_id": 1373679,
+  "name": "Moore vs. Ferrell et al.",
+  "name_abbreviation": "Moore v. Ferrell",
+  "reporter": "Ga.",
+  "reporter_slug": "ga",
+  "volume": 1,
+  "first_page": 6,
+  "last_page": 6,
+  "official_citation": "1 Ga. 6",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Ga. 6"
+    }
+  ],
+  "court": "Supreme Court of Georgia",
+  "court_slug": null,
+  "jurisdiction": "Ga.",
+  "decision_date": "1846-03",
+  "docket_number": "No. 3",
+  "text": "By the Court\nLumpkin, Judge.\nThe 25th section of the Act of 1811 provides that, “All bills of injunction granted by the Superior Courts, or any of them, or which may hereafter be granted, shall stand and be considered as open for argument and amendment at the first Term of the Superior Court which may be holden after the passing of this act, in and for the county were the suit originated ; or the first Term after the granting of such Bill of Injunction,” &c. This court will not decide, because it is hot necessary, how far the Rule in Equity, authorizing applications to dissolve injunctions to be made before the first Term of the court to which the same is returnable, is warranted by the statute just quoted. Were the alternative presented of rescinding this Rule of Practice, promotive as it may be of public justice, or retaining jurisdiction of decisions made out of Term time we should not hesitate: We find ourselves, however, in no such dilemma. The 4th section of the Act creating this tribunal provides that “ all causes of a criminal or civil nature may, for alleged error in any decision, sentence, judgment or decree, of any such Superior Court, be carried up from the counties in the respective districts aforesaid to the Judges of the Supreme Court, at the respective terms thereof for such district, to be by the said Supreme Court revised and determined.” The only inquiry then is, was the order of the judge below, dissolving the injunction, a “ decision, sentence, judgment or decree” of the Superior Court ? If so, the right of this court to revise and determine it is clearly given.\nIt is true that in another part of the same section the law provides that the costs shall bje paid, and the bond given within four days after the Term at which the exceptions were taken. A different phraseology obtains, however, in the previous part of the section specifying the mode in which causes are to be carried up, namely: that it is to be done within four days after the trial of the cause in which the decision or sentence has been made. Were it otherwise, we should still hold that the session of the court below, although intermediate the regular Terms, was nevertheless a Term quoad the judgment, or decree complained of.\nMotion overruled.",
+  "text_len": 2262,
+  "source_url": "https://static.case.law/ga/1/cases/0006-01.json",
+  "retrieved": "2026-09-02"
+}

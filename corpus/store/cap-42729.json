@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-42729",
+  "cap_id": 42729,
+  "name": "Commonwealth versus John D. Hutchinson",
+  "name_abbreviation": "Commonwealth v. Hutchinson",
+  "reporter": "Mass.",
+  "reporter_slug": "mass",
+  "volume": 1,
+  "first_page": 6,
+  "last_page": 7,
+  "official_citation": "1 Mass. 6",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Will. 6"
+    },
+    {
+      "type": "official",
+      "cite": "1 Mass. 6"
+    }
+  ],
+  "court": "Massachusetts Supreme Judicial Court",
+  "court_slug": null,
+  "jurisdiction": "Mass.",
+  "decision_date": "1804-09",
+  "docket_number": "",
+  "text": "The Court (Strong, Sedgwick, Sewall, and Thatcher, justices) did not decide whether there might not be cases in which a forgery might be proved without producing the instrument alleged to be forged, but they were clearly and unanimously of opinion that the person, whose instrument is alleged to be forged, is not a competent witness to prove the forgery, unless the instrument is produced at the trial.\n* They said that although they believed it to be now set-tied in England that the person whose instrument is said to be forged is not a competent witness to prove the forgery, yet the practice had for a long time been otherwise in this state; and from a supposed necessity — that is, from the impossibility, ordinarily, of proving the forgery without hisx testimony; but they had never known this done unless the instrument was produced; that in thus departing from the decisions of the courts of law in England, which appear to haye been grounded on pretty strong and substantial reasons, we had gone far enough, perhaps too far; that although they considered themselves bound by the decisions of our own courts, which were contrary to or different from those in the English courts, yet they thought to extend the principle beyond what had been already decided, to the length now contended for, would be very dangerous in its consequences ; and that no reasons from necessity, convenience, or public policy, required it. The testimony of Castle being rejected, without which it was, in the present case, impossible to prove the forgery, the jury were directed to find the defendant not guilty — which they did instanter.",
+  "text_len": 1625,
+  "source_url": "https://static.case.law/mass/1/cases/0006-01.json",
+  "retrieved": "2026-09-02"
+}

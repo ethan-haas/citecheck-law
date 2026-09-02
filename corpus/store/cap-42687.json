@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-42687",
+  "cap_id": 42687,
+  "name": "Commonwealth versus William Millard",
+  "name_abbreviation": "Commonwealth v. Millard",
+  "reporter": "Mass.",
+  "reporter_slug": "mass",
+  "volume": 1,
+  "first_page": 4,
+  "last_page": 6,
+  "official_citation": "1 Mass. 4",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Will. 4"
+    },
+    {
+      "type": "official",
+      "cite": "1 Mass. 4"
+    }
+  ],
+  "court": "Massachusetts Supreme Judicial Court",
+  "court_slug": null,
+  "jurisdiction": "Mass.",
+  "decision_date": "1804-09",
+  "docket_number": "",
+  "text": "The Court (Strong, Sedgwick, Sewall, and Thatcher, justices present) refused to put off the trial — they said that it was doubtful, even from his own story, whether he really had any witnesses, as he pretended — but if it were true, it was no reason for a continuance, as he could not compel them to attend, they living out of the jurisdiction of the Court.\nUpon the trial it was proved that part of the goods stolen from the shop were found in the possession of the defendant. Sedgwick, J., (who charged the jury,) stated this proof to be presumptive evidence not only that he stole the whole of the articles taken from the shop, but also of his breaking and entering as alleged in the indictment; unless the defendant would give some reasonable account how he came by the goods — which he did not attempt to do The jury found the defendant guilty of the whole charge\nIn the case of Mostyn vs. Fabrigas, Cowp. 161, which was an action oí trespass and false imprisonment, brought by a Minorquin, for wrongs alleged to have been done in Minorca by the defendant, while governor of that island, Lord Mansfield, in delivering the opinion of the court, says, “ As to suggestions with regard to the difficulty of bringing witnesses, the court must take care that the defendant is not surprised,” &c. &c.\n“ If he wants the testimony of witnesses whom he cannot compel to attend, the court may do what the court did in the case of a criminal prosecution of a woman who had received a pension as an officer’s widow, and it was charged in the indictment that she was never married to him. She alleged a marriage in Scotland, but that she could not compel her witnesses to come up to give evidence. The court obliged the prosecutor to consent that the witnesses might be examined before any of the judges of the Court of Sessions, or any of the barons of the Court of Exchequer, in Scotland, and that the depositions so taken should be read at the trial. And they declared that they would have put off the trial from time to time, forever, unless the prosecutor had so consented. The witnesses were so examined before the lord president of the Court of Sessions.” Ib. 174.\n[The defendant did not show that he had used due diligence, and had failed to procure the attendance of the witness merely in consequence of his living out of the jurisdiction. — Ed.]",
+  "text_len": 2346,
+  "source_url": "https://static.case.law/mass/1/cases/0004-02.json",
+  "retrieved": "2026-09-02"
+}

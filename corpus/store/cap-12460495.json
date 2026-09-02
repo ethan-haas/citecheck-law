@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-12460495",
+  "cap_id": 12460495,
+  "name": "IN THE MATTER OF TODD DAVIS VAN SICLEN, AN ATTORNEY AT LAW (ATTORNEY NO. 025912000)",
+  "name_abbreviation": "In re Van Siclen",
+  "reporter": "N.J.",
+  "reporter_slug": "nj",
+  "volume": 231,
+  "first_page": 6,
+  "last_page": 7,
+  "official_citation": "231 N.J. 6",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "231 N.J. 6"
+    },
+    {
+      "type": "parallel",
+      "cite": "171 A.3d 197"
+    }
+  ],
+  "court": "Supreme Court of New Jersey",
+  "court_slug": null,
+  "jurisdiction": "N.J.",
+  "decision_date": "2017-10-04",
+  "docket_number": "079364",
+  "text": "ORDER\nThe Disciplinary Review Board having filed with the Court its decision in DRB 16-274, concluding that as a matter of reciprocal discipline pursuant to Rule 1:20-14, TODD DAVIS VAN SICLEN of CRANFORD, who was admitted to the bar of this State in 2000, should be suspended from the practice of law for a period of two years based on discipline imposed in the State of New York for unethical conduct that in New Jersey constitutes violations of RPC 1.7(a)(2)(prohibiting a lawyer from representing a client if there is a significant risk that the representation will be materially limited by the lawyer’s responsibilities to another client, a former client, or a third person or by a personal interest of the lawyer), and RPC 8.4(c)(conduct involving dishonesty, fraud, deceit or misrepresentation), and good cause appearing;\nIt is ORDERED that TODD DAVIS VAN SICLEN is suspended from the practice of law for a period of two years, effective November 3, 2017, and until the further Order of the Court; and it is further\nORDERED that respondent comply with Rule 1:20-20 dealing with suspended attorneys; and it is further\nORDERED that pursuant to Rule 1:20—20(c), respondent’s failure to comply with the Affidavit of Compliance requirement of Rule 1:20—20(b)(15) may (1) preclude the Disciplinary Review Board from considering respondent’s petition for reinstatement for a period of up to six months from the date respondent files proof of compliance; (2) be found to constitute a violation of RPC 8.1(b) and RPC 8.4(d); and (3) provide a basis for an action for contempt pursuant to Rule 1:10-2; and it is further\nORDERED that the entire record of this matter be made a permanent part of respondent’s file as an attorney at law of this State; and it is further\nORDERED that respondent reimburse the Disciplinary Oversight Committee for appropriate administrative costs and actual expenses incurred in the prosecution of this matter, as provided in Rule 1:20-17.",
+  "text_len": 1964,
+  "source_url": "https://static.case.law/nj/231/cases/0006-01.json",
+  "retrieved": "2026-09-02"
+}

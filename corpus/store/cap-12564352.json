@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-12564352",
+  "cap_id": 12564352,
+  "name": "PEOPLE of the State of Michigan, Plaintiff-Appellee, v. Arthur Larome JEMISON, Defendant-Appellant.",
+  "name_abbreviation": "People v. Jemison",
+  "reporter": "N.W.2d",
+  "reporter_slug": "nw2d",
+  "volume": 932,
+  "first_page": 2,
+  "last_page": 2,
+  "official_citation": "932 N.W.2d 2",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "932 N.W.2d 2"
+    }
+  ],
+  "court": "Michigan Supreme Court",
+  "court_slug": null,
+  "jurisdiction": "Mich.",
+  "decision_date": "2019-08-23",
+  "docket_number": "SC: 157812; COA: 334024",
+  "text": "On order of the Chief Justice, the motion of defendant-appellant to extend the time for filing his brief is GRANTED. The brief submitted on August 16, 2019, is accepted as timely filed.",
+  "text_len": 185,
+  "source_url": "https://static.case.law/nw2d/932/cases/0002-01.json",
+  "retrieved": "2026-09-02"
+}

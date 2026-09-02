@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-42739",
+  "cap_id": 42739,
+  "name": "Thomas Gold, Plaintiff in Review, versus Joshua Eddy, Administrator",
+  "name_abbreviation": "Gold v. Eddy",
+  "reporter": "Mass.",
+  "reporter_slug": "mass",
+  "volume": 1,
+  "first_page": 1,
+  "last_page": 3,
+  "official_citation": "1 Mass. 1",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Will. 1"
+    },
+    {
+      "type": "official",
+      "cite": "1 Mass. 1"
+    }
+  ],
+  "court": "Massachusetts Supreme Judicial Court",
+  "court_slug": null,
+  "jurisdiction": "Mass.",
+  "decision_date": "1804-09",
+  "docket_number": "",
+  "text": "Sedgwick, J.,\nhaving formerly been of counsel in the case, declined taking any part in the trial.\nSee 1 P. W. Rep. 289. — 2 Vez. 42. — 9 Term Rep. 27.",
+  "text_len": 150,
+  "source_url": "https://static.case.law/mass/1/cases/0001-01.json",
+  "retrieved": "2026-09-02"
+}

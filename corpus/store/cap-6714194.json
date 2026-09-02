@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-6714194",
+  "cap_id": 6714194,
+  "name": "Johnson v. Macon",
+  "name_abbreviation": "Johnson v. Macon",
+  "reporter": "Va.",
+  "reporter_slug": "va",
+  "volume": 1,
+  "first_page": 358,
+  "last_page": 359,
+  "official_citation": "1 Va. 4",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Wash. 4"
+    },
+    {
+      "type": "official",
+      "cite": "1 Va. 4"
+    }
+  ],
+  "court": "Court of Appeals of Virginia",
+  "court_slug": null,
+  "jurisdiction": "Va.",
+  "decision_date": "1790-10",
+  "docket_number": "",
+  "text": "The PRESIDENT\ndelivered the opinion of the court. A motion for a new tria.1 upon the ground of misdirection of the judge at nisi prius is never make to the same judge, but to the court of Kings Bench. To make the motion to the same judge who gave the direction is certainly irregular, and improper. The exception ought to have been stated to the direction itself.\nBut as the exception states the direction of the judge, and the ground of it, so as to enable this court to decide upon the propriety of the opinion, we shall pass over the form, and enquire into the grounds of that direction.\nThe opinion is in part right, since the actual escape, is the gist of the action and therefore ought to have been proved, and in part wrong, so far as it required the appellant to prove the escape to have been with the consent or through the negligence of the sheriff, since the consent or negligence, tho’ made necessary by the act of Assembly, ought to be presumed, unless on the sheriffs parts a tortious escape be shewn, and that fresh pursuit was made. But it is unnecessary to decide this point, since that part of the opinion which was clearly right, will justify the subsequent direction to the jury, there being no proof of an actual escape.\nThe parole proof is, that Macon was high sheriff when Smith was arrested, and that Smith resided in Charleston some years after, which is certainly no proof of an actual escape from the defendant or his deputy.\nThe record proves him to have been in custody in June 1778, when Macon could not have been sheriff, as he was so *at the time of the arrest in January 1775, more than two years before. But Anderson swears, that Smith was not turned over to his custody by assignment from any former sheriff. Eet it in the first place he remarked, that Anderson was a very improper witness to exculpate himself. — But 2dly, Escapes which in England are fixed upon the sheriff from legal deductions, seem to be done away in this country, by the act of Assembly, which subjects the sheriff, only where the jury expressly find that the debtor escaped with the consent, or through the negligence of the officer. This a jury would hardly find, when it appeared that the debtor was in the actual custody of a succeeding sheriff, altho’ the formality of an assignment had been omitted.\nBesides, tho’ no assignment were made, yet the other mode of transferring prisoners by entry on record might have been observed.\nJudgment affirmed.",
+  "text_len": 2461,
+  "source_url": "https://static.case.law/va/1/cases/0358-01.json",
+  "retrieved": "2026-09-02"
+}

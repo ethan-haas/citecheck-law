@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-12564278",
+  "cap_id": 12564278,
+  "name": "PEOPLE of the State of Michigan, Plaintiff-Appellee, v. Shokelle Reon MCKAY, Defendant-Appellant.",
+  "name_abbreviation": "People v. McKay",
+  "reporter": "N.W.2d",
+  "reporter_slug": "nw2d",
+  "volume": 932,
+  "first_page": 1,
+  "last_page": 1,
+  "official_citation": "932 N.W.2d 1",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "932 N.W.2d 1"
+    }
+  ],
+  "court": "Michigan Supreme Court",
+  "court_slug": null,
+  "jurisdiction": "Mich.",
+  "decision_date": "2019-08-16",
+  "docket_number": "SC: 156444; COA: 337715",
+  "text": "On order of the Chief Justice, the motion of defendant-appellant to withdraw his motion for reconsideration of this Court's order of June 26, 2019, is GRANTED.",
+  "text_len": 159,
+  "source_url": "https://static.case.law/nw2d/932/cases/0001-01.json",
+  "retrieved": "2026-09-02"
+}

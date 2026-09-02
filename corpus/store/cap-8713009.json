@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-8713009",
+  "cap_id": 8713009,
+  "name": "GEORGE F. GIBBS, Plaintiff in Error, vs. JAMES HOLCOMB, Defendant in Error",
+  "name_abbreviation": "Gibbs v. Holcomb",
+  "reporter": "Wis.",
+  "reporter_slug": "wis",
+  "volume": 1,
+  "first_page": 23,
+  "last_page": 26,
+  "official_citation": "1 Wis. 23",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Wis. 23"
+    }
+  ],
+  "court": "Wisconsin Supreme Court",
+  "court_slug": null,
+  "jurisdiction": "Wis.",
+  "decision_date": "1853-06",
+  "docket_number": "",
+  "text": "By the Court,\nCeaweoed, J.\nBy the return of the justice of the peace, before whom this case was originally tried, we find that the only “witness sworn on the trial was Hiram Yan Orman ; from whose testimony it appeared, that in the submission and arbitration which had before that time been entered into, and upon the award in which this suit was brought, one S .muel G-. Curtis had acted as agent of the defendant, (George F. Gibbs,) and that in a former suit against Curtis, as garnishee of Gibbs, he (Curtis) had testified that he was the agent of Gibbs, and as such agent, had entered into the arbitration. Gibbs was present at the trial before the justice, and might have been sworn, but he was not.\nWe cannot discover any evidence in the case which could render tbe award sued upon, in any manner binding upon the defendant, Gibbs, for the mere admission of Curtis that he was the agent of the defendant was not sufficient, nor was it enough to prove by Yan Orman, that- in another proceeding Curtis had sworn that he was such agent. There is no doubt that an agent duly authorized, may bind his principal by a submission to arbitration, (Watson on Arbitration and Awards, p. 50,) but in all cases, before the acts or admissions of an agent can be given *n evidence, the fact of his agency must \"be proved.\nIn this case, there was no such proof contained in the x'eturn of the justice of the peace to the writ of certiorari, and for that reason the County Court should have reversed the judgment of the justice.\nThe judgment of the County Court, and that of the justice of the peace, must therefore' be reversed with costs. ,",
+  "text_len": 1631,
+  "source_url": "https://static.case.law/wis/1/cases/0023-01.json",
+  "retrieved": "2026-09-02"
+}

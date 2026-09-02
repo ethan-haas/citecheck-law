@@ -1,0 +1,27 @@
+{
+  "opinion_id": "cap-268477",
+  "cap_id": 268477,
+  "name": "Elias F. Morgan v. James Wolstencroft, Appellant",
+  "name_abbreviation": "Morgan v. Wolstencroft",
+  "reporter": "Pa. Super.",
+  "reporter_slug": "pa-super",
+  "volume": 1,
+  "first_page": 13,
+  "last_page": 15,
+  "official_citation": "1 Pa. Super. 13",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. Super. 13"
+    }
+  ],
+  "court": "Superior Court of Pennsylvania",
+  "court_slug": null,
+  "jurisdiction": "Pa.",
+  "decision_date": "1895-12-02",
+  "docket_number": "Appeal No. 6",
+  "text": "Opinion by\nRice, P. J.,\nIt is a well settled principle in the law of commercial, paper, that, where no demand has been made or notice given, an endorser’s promise to pay after maturity, with full knowledge of the holder’s laches is binding. The cases will be found collected in Oxnard v. Varnum, 111 Pa. 193, and need not be cited here. The appellant’s counsel does not dispute the principle, but contends that there was not such evidence of a promise to pay the $250 note as was necessary to bring the case within it. Conceding for present purposes that the question is governed by the rule applicable to a promise to pay an obligation barred by the statute of limitations, still there was ample testimony to warrant the court in submitting it to the jury. The defendant admitted his indorsement on the trial, and there was testimony — denied by him it is true — that he said to the Morgans that whatever paper he was on he would pay in full. Furthermore it appeared by his own testimony that the notes were present at the interview and. that he saw them. Hence his promise was plainly referable to the note in suit and there was no lack of identification. In short, while there was a conflict of evidence as to what was said at the interview there was no dispute or doubt as to the notes concerning which the parties talked.\nBy the affirmance of the defendant’s first point,-and in his general charge the learned judge told the jury very plainly that the notice of nonpayment was prematurely sent, that it was not legal notice and amounted to nothing, and that the defendant would be discharged unless they found that he afterwards promised to pay the note. When, a°s they properly should be, these instructions are read in connection with the instruction referred to in the second assignment of error, it will be seen that the complaint that the latter put on the defendant a greater burden than he ought to bear is not well founded.\nJudgment affirmed.",
+  "text_len": 1955,
+  "source_url": "https://static.case.law/pa-super/1/cases/0013-01.json",
+  "retrieved": "2026-09-02"
+}

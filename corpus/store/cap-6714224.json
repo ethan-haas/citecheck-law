@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-6714224",
+  "cap_id": 6714224,
+  "name": "Pleasants v. Bibb",
+  "name_abbreviation": "Pleasants v. Bibb",
+  "reporter": "Va.",
+  "reporter_slug": "va",
+  "volume": 1,
+  "first_page": 360,
+  "last_page": 360,
+  "official_citation": "1 Va. 8",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Wash. 8"
+    },
+    {
+      "type": "official",
+      "cite": "1 Va. 8"
+    }
+  ],
+  "court": "Court of Appeals of Virginia",
+  "court_slug": null,
+  "jurisdiction": "Va.",
+  "decision_date": "1791-04",
+  "docket_number": "",
+  "text": "The PRESIDENT\ndelivered the opinion of the Court.\nThe single question upon this record is, at what period the scale of depreciation should be applied to the bond upon which the judgment was rendered.\nThe bond was dated on the 1st of February 1780 with condition for payment on the 17th of February 1781, with interest from the 16th of February 1779, thereby indicating, if not expressing, that the debt arose on the day last mentioned, though not reduced to a specialty until the year 1780. The record also contains letters from the obligor, shewing the debt to have arisen on account of money lent at different times in the'year 1779.\nUpon the bond and those circumstances, the County Court very properly decided that the debt arose in February 1779 and was to be scaled ás of that period. The^ judgment of the District Court which considered the date of the bond as the proper period for scaling, is therefore erroneous, and must be reversed, and that of the County Court affirmed.",
+  "text_len": 983,
+  "source_url": "https://static.case.law/va/1/cases/0360-01.json",
+  "retrieved": "2026-09-02"
+}

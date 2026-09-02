@@ -1,0 +1,31 @@
+{
+  "opinion_id": "cap-6714209",
+  "cap_id": 6714209,
+  "name": "Smith v. Harmanson",
+  "name_abbreviation": "Smith v. Harmanson",
+  "reporter": "Va.",
+  "reporter_slug": "va",
+  "volume": 1,
+  "first_page": 359,
+  "last_page": 360,
+  "official_citation": "1 Va. 6",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Wash. 6"
+    },
+    {
+      "type": "official",
+      "cite": "1 Va. 6"
+    }
+  ],
+  "court": "Court of Appeals of Virginia",
+  "court_slug": null,
+  "jurisdiction": "Va.",
+  "decision_date": "1791-04",
+  "docket_number": "",
+  "text": "The PRESIDENT.\n— The judgment of the District Court is more beneficial to the appellant than that of the County Court (with which the defendant in that Court was discontented) because it entitled him to the continuing interest after the judgment. Yet he appeals to this Court; so that each party in his turn has complained of an error in judgment, which operated beneficially for himself.\nThe District Court have erred upon their own principles; for if the judgment of the County Court should have been for principal and continuing interest, yet as the ¿1147 18 8 found by the jury did not appear otherwise than by calculation to be the aggregate of principal and interest, they should in that case have reversed the judgment, and remanded the cause to the inferior court for a new trial, to ascertain the principal sum due which was to bear, interest. This court considering that the judgment of the District Court must be reversed, the next question was, what judgment they should have pronounced.\nUpon this, there was some difficulty and contrariety of opinion, whether we should pursue the principle of the District Court, and in doing so, direct a new trial in the County Court, or as their judgment ■attained the real justice of the case, and saved expence, it should be sustained ? or whether the judgment of the County Court should be affirmed ? a majority of the Court thinking the jury might make their verdict of the aggregate of principal and interest, which tending to the -benefit of the defendant, he did not object to it at the time, and could not appeal or complain of it, are for affirming that judgment, pursuing in this, the judgment of the General Court in the Norfolk case mentioned at the bar, which-was the same as this; except that here there was leave to give special matter in evidence, from whence the jury might have drawn some ingredients for compounding the ¿1147 18 4, besides the aggregate of principal and interest, either to increase or dimin-, ish that .aggregate.\nThe judgment of the District Court must be reversed with costs, and that of the County Court affirmed with damages from the time •of entering-it, to that of the judgment of the District Court. _",
+  "text_len": 2195,
+  "source_url": "https://static.case.law/va/1/cases/0359-01.json",
+  "retrieved": "2026-09-02"
+}
